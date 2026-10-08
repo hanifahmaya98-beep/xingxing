@@ -749,7 +749,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ]
       },
 
-    "review": [
+    "review":
           {
             "@type": "Review",
             "author": {
@@ -845,7 +845,6 @@ digitalData.page.pageInfo.pageName = pageName;
               "bestRating": "5",
               "worstRating": "1"
             }
-           ]
           },
 
         "offers": {
