@@ -749,7 +749,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ]
       },
 
-    "review": [
+    "review": 
           {
             "@type": "Review",
             "author": {
