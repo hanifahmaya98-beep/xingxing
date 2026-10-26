@@ -70,22 +70,22 @@
 
 
 <link href="https://kendari.bawaslu.go.id/" rel="canonical" /><link href="https://kendari.bawaslu.go.id/gacor/img/icon.png" rel="icon" type="image/x-icon" />
-    <link href="https://kendari.bawaslu.go.id/gacor/css/jqueryf53c.css?v=ymqAnP7v3ynbDOUAX1PpToztEVuDXw1gEf-nCJliERs1" rel="stylesheet"/>
+    <link href="/sites/sultra_kendari/files/css/jqueryf53c.css?v=ymqAnP7v3ynbDOUAX1PpToztEVuDXw1gEf-nCJliERs1" rel="stylesheet"/>
 
-    <link href="https://kendari.bawaslu.go.id/gacor/css/zelma-v2-beta-desktop-css3776.css?v=Ym-tSbhS5GxkRdyGCeDm0a5p6KxTFuDOBZGbq5omeQQ1" rel="stylesheet"/>
+    <link href="/sites/sultra_kendari/files/css/zelma-v2-beta-desktop-css3776.css?v=Ym-tSbhS5GxkRdyGCeDm0a5p6KxTFuDOBZGbq5omeQQ1" rel="stylesheet"/>
 
-    <link href="https://kendari.bawaslu.go.id/gacor/css/zelma-v2-beta-desktop-csscfc4.css?v=hYPACsKLf9v517hoRk2_ysydOr0xycYseWl4mDcVf-M1" rel="stylesheet"/>
+    <link href="/sites/sultra_kendari/files/css/zelma-v2-beta-desktop-csscfc4.css?v=hYPACsKLf9v517hoRk2_ysydOr0xycYseWl4mDcVf-M1" rel="stylesheet"/>
 
 
     
     
-    <link rel="preload" as="image" href="https://kendari.bawaslu.go.id/gacor/img/slot-gacor.jpg" fetchpriority="high">
+    <link rel="preload" as="image" href="/sites/sultra_kendari/files/img/slot-gacor.jpg" fetchpriority="high">
 
-    <link href="https://kendari.bawaslu.go.id/gacor/css/zelma-v2-beta-desktop-css62b2.css?v=FQ5V7KUy2al2L_s1Wc7zf2ju6XB0ZkTt95UDLqlnPuc1" rel="stylesheet"/>
+    <link href="/sites/sultra_kendari/files/css/zelma-v2-beta-desktop-css62b2.css?v=FQ5V7KUy2al2L_s1Wc7zf2ju6XB0ZkTt95UDLqlnPuc1" rel="stylesheet"/>
 
 
 
-<link href="https://kendari.bawaslu.go.id/gacor/css/zelma-v2-beta-desktop-dark-turquoise-css35bf.css?v=0-wJ5cwthB9duecTzbs-xwKmo0S_KzNuJ-QNp9mw66Y1" rel="stylesheet"/>
+<link href="/sites/sultra_kendari/files/css/zelma-v2-beta-desktop-dark-turquoise-css35bf.css?v=0-wJ5cwthB9duecTzbs-xwKmo0S_KzNuJ-QNp9mw66Y1" rel="stylesheet"/>
 
 <link rel="amphtml" href="https://kendari.bawaslu.go.id/gacor/">
 <link rel="alternate" hreflang="id-id" href="https://kendari.bawaslu.go.id/gacor/"/>
@@ -4064,7 +4064,7 @@ requestAnimationFrame(() => {
 </div>
 
 
-    <script src='https://kendari.bawaslu.go.id/gacor/js/zelma-v2-beta-desktop-js30e8.js?v=9mjyZWja2JXSMI7-WU1iC68lq8E9QJ-rZtH-piwdt301' defer></script>
+    <script src='/sites/sultra_kendari/files/js/zelma-v2-beta-desktop-js30e8.js?v=9mjyZWja2JXSMI7-WU1iC68lq8E9QJ-rZtH-piwdt301' defer></script>
 
 
     <script type="text/javascript">
@@ -4078,7 +4078,7 @@ requestAnimationFrame(() => {
     </script>
 
     
-    <script src='https://kendari.bawaslu.go.id/gacor/js/desktop-jsa555.js?v=9Zwby9nwORnewSNBuqQKxOhQlfOigartOVQeAR1eHsQ1' defer></script>
+    <script src='/sites/sultra_kendari/files/js/desktop-jsa555.js?v=9Zwby9nwORnewSNBuqQKxOhQlfOigartOVQeAR1eHsQ1' defer></script>
 
     <script type="text/javascript">
         window.addEventListener('DOMContentLoaded', () => {
