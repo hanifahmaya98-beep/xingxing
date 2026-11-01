@@ -10,9 +10,9 @@
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://ppidapp.bawaslu.go.id/">
 <meta name="google-site-verification" content="S8Mjz0PFtU-tKKDJnCH3NxmQbamF5JAye2a0RKKiv2M" />
-<link rel="amphtml" href="https://ppidapp.bawaslu.go.id/terbang/">
-<link rel="alternate" hreflang="id-id" href="https://ppidapp.bawaslu.go.id/terbang/"/>
-<link rel="alternate" hreflang="id" href="https://ppidapp.bawaslu.go.id/terbang/"/>
+<link rel="amphtml" href="https://ppidapp.bawaslu.go.id/terbang">
+<link rel="alternate" hreflang="id-id" href="https://ppidapp.bawaslu.go.id/terbang"/>
+<link rel="alternate" hreflang="id" href="https://ppidapp.bawaslu.go.id/terbang"/>
 <meta name="publisher" content="BRAGATOTO">
 <meta name="description" content="Nikmati link situs Slot777 slot gacor malam dan hari ini 2026 serta main toto togel online di BRAGATOTO dengan fitur modern, live RTP, prediksi angka main, dan pembayaran otomatis.">
 <meta name="sitecode" content="id">
@@ -14124,7 +14124,7 @@ if (pageTrack == "business insights detail") {
     s.eVar38 = "insight:" + pageID;
 }else if (pageTrack == "business solution detail") {
     var pageID = _satellite.getVar("Page ID");
-	var fCategory = _satellite.getVar("3Depth").split(":");
+  var fCategory = _satellite.getVar("3Depth").split(":");
     var filterCategory = fCategory[fCategory.length -1];
     s.eVar38 = "solution:" + filterCategory + ":" + pageID;
 }
