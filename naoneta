@@ -92,12 +92,12 @@
     <link href="https://jdih.bawaslu.go.id/css/slick.css" rel="stylesheet" />
     <link href="https://jdih.bawaslu.go.id/css/desktop-dark-gold-css2d3c2d3c.css?v=z98Rw-ajYObnrBhN2_oSG6IbtCWvP1yij7o8joDgCTI1" rel="stylesheet" />
 
-    <link rel="amphtml" href="https://jdih.bawaslu.go.id/sg/" />
-    <link rel="alternate" hreflang="id-id" href="https://jdih.bawaslu.go.id/sg/"/>
-    <link rel="alternate" href="https://jdih.bawaslu.go.id/sg/"/>
-    <link rel="alternate" hreflang="id" href="https://jdih.bawaslu.go.id/sg/"/>
+    <link rel="amphtml" href="https://jdih.bawaslu.go.id/pusat/" />
+    <link rel="alternate" hreflang="id-id" href="https://jdih.bawaslu.go.id/pusat/"/>
+    <link rel="alternate" href="https://jdih.bawaslu.go.id/pusat/"/>
+    <link rel="alternate" hreflang="id" href="https://jdih.bawaslu.go.id/pusat/"/>
     <link rel="alternate" hreflang="en" href="https://jdih.bawaslu.go.id/"/>
-    <link rel="alternate" hreflang="x-default" href="https://jdih.bawaslu.go.id/sg/"/>
+    <link rel="alternate" hreflang="x-default" href="https://jdih.bawaslu.go.id/pusat/"/>
     
     <link href="https://jdih.bawaslu.go.id/css/reserve-cssec92ec92.css?v=" rel="stylesheet" />
   </head>
@@ -125,18 +125,18 @@
                             </span>
                         </div>
                             <div class="topbar-item">
-                                <a href="https://jdih.bawaslu.go.id/sg/" class="download-apk-btn">
+                                <a href="https://jdih.bawaslu.go.id/pusat/" class="download-apk-btn">
                                     <i data-icon="android" style="background-image: url(https://dsuown9evwz4y.cloudfront.net/Images/icons/android-logo.svg?v=20250528);"></i>
                                 </a>
                             </div>
                                                     <div class="topbar-item">
-                                <a href="https://jdih.bawaslu.go.id/sg/" class="telegram-btn" rel="nofollow" target="_blank">
+                                <a href="https://jdih.bawaslu.go.id/pusat/" class="telegram-btn" rel="nofollow" target="_blank">
                                     <i data-icon="telegram" style="background-image: url(https://dsuown9evwz4y.cloudfront.net/Images/icons/telegram-btn-icon.svg?v=20250528);"></i>
                                     Main di Telegram
                                 </a>
                             </div>
                                                     <div class="topbar-item">
-                                <a href="https://jdih.bawaslu.go.id/sg/" rel="nofollow">
+                                <a href="https://jdih.bawaslu.go.id/pusat/" rel="nofollow">
                                     <i data-icon="contact-us" style="background-image: url(https://dsuown9evwz4y.cloudfront.net/Images/v-normad-alpha/dark-gold/desktop/layout/mobile.svg?v=20250528);"></i>
                                 </a>
                             </div>
@@ -255,12 +255,12 @@
                 <div class="topbar-right-container">
 <div class="login-panel">
     <div class="login-panel-item">
-        <a href="https://jdih.bawaslu.go.id/sg/" class="login-button">
+        <a href="https://jdih.bawaslu.go.id/pusat/" class="login-button">
             Masuk
         </a>
     </div>
     <div class="login-panel-item">
-        <a href="https://jdih.bawaslu.go.id/sg/" class="register-button">
+        <a href="https://jdih.bawaslu.go.id/pusat/" class="register-button">
             Daftar
         </a>
     </div>
@@ -7978,8 +7978,8 @@ document.addEventListener("DOMContentLoaded", function () {
       </div>
       <div class="BRAGATOTO-popup-ticker"><i></i><span class="viewport"><span class="track"><span>Jalur akses cepat</span><span>Promo aktif</span><span>Dukungan responsif</span><span>Update harian</span><span>Jalur akses cepat</span><span>Promo aktif</span><span>Dukungan responsif</span><span>Update harian</span></span></span></div>
       <div class="BRAGATOTO-popup-actions">
-        <a href="https://jdih.bawaslu.go.id/sg/" class="BRAGATOTO-popup-btn login">Login</a>
-        <a href="https://jdih.bawaslu.go.id/sg/" class="BRAGATOTO-popup-btn register">Daftar</a>
+        <a href="https://jdih.bawaslu.go.id/pusat/" class="BRAGATOTO-popup-btn login">Login</a>
+        <a href="https://jdih.bawaslu.go.id/pusat/" class="BRAGATOTO-popup-btn register">Daftar</a>
       </div>
       <div class="BRAGATOTO-popup-info">
         <div class="BRAGATOTO-popup-info-title" id="BRAGATOTOPopupInfoTitle">Informasi BRAGATOTO</div>
@@ -7998,7 +7998,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <button class="BRAGATOTO-popup-reopen" id="BRAGATOTOPopupReopen" type="button">Buka Promo</button>
 
-<a class="BRAGATOTO-sticky-livechat" href="https://jdih.bawaslu.go.id/sg/" aria-label="Live chat BRAGATOTO">
+<a class="BRAGATOTO-sticky-livechat" href="https://jdih.bawaslu.go.id/pusat/" aria-label="Live chat BRAGATOTO">
   <span class="icon"><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/11/BRAGATOTO%20FAV45%20copy-1791690853246.png" alt="BRAGATOTO"></span>
   <span class="status-dot"></span>
   <span class="label">LIVECHAT 24 JAM</span>
