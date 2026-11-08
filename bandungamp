@@ -1,928 +1,367 @@
-
-
-
-<!doctype html>
+<!DOCTYPE html>
 <html amp lang="id">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-  <title>
-    BRAGATOTO: Bandar Situs Resmi Slot Toto Gacor & Togel Online Gampang Jackpot
-  </title>
-
-  <meta
-    name="description"
-    content="BRAGATOTO adalah bandar situs resmi slot toto gacor & togel online gampang jackpot yang banyak di cari oleh para master slot toto gacor dan togel online dengan prediksi yang akurat, navigasi stabil, dan pelayanan terbaik 24 jam nonstop."
-  >
-
-  <link
-    rel="icon"
-    type="image/x-icon"
-    href="https://kesetiaan-yang-abadi.site/image/icon-bragatoto.png"
-  >
-
-  <link
-    rel="canonical"
-    href="https://bandungbarat.bawaslu.go.id/"
-  >
-
-  <meta property="og:url" content="https://bandungbarat.bawaslu.go.id/">
-  <meta property="og:site_name" content="BRAGATOTO">
-
-  <meta
-    property="og:title"
-    content="BRAGATOTO: Bandar Situs Resmi Slot Toto Gacor & Togel Online Gampang Jackpot"
-  >
-
-  <meta
-    property="og:description"
-    content="BRAGATOTO adalah bandar situs resmi slot toto gacor & togel online gampang jackpot yang banyak di cari oleh para master slot toto gacor dan togel online dengan prediksi yang akurat, navigasi stabil, dan pelayanan terbaik 24 jam nonstop."
-  >
-
-  <meta
-    property="og:image"
-    content="https://kesetiaan-yang-abadi.site/image/slottotoo.png"
-  >
-
-  <meta
-    property="og:image:alt"
-    content="Situs TOTO TOGEL"
-  >
-
-  <meta name="theme-color" content="#050005">
-
-  <link
-    rel="preload"
-    as="script"
-    href="https://cdn.ampproject.org/v0.js"
-  >
-
+  <link rel="canonical" href="https://bandungbarat.bawaslu.go.id/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta http-equiv="content-language" content="id">
+  <title>BRAGATOTO: Bandar Situs Resmi Slot Toto Togel Online Gampang Jackpot</title>
+  <meta name="description" content="BRAGATOTO adalah bandar situs resmi slot toto togel online gampang jackpot yang banyak di cari oleh para master slot toto togel online dengan prediksi yang akurat, navigasi stabil, dan pelayanan terbaik 24 jam nonstop.">
+  <meta name="robots" content="index, follow">
   
   <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
 
-  
-<style amp-boilerplate>
-  body {
-    -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-    -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-    -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-    animation: -amp-start 8s steps(1,end) 0s 1 normal both;
-  }
+  <link rel="icon" type="image/x-icon" href="https://kesetiaan-yang-abadi.site/image/icon-bragatoto.png">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  @-webkit-keyframes -amp-start {
-    from { visibility: hidden; }
-    to { visibility: visible; }
-  }
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+  <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
-  @-moz-keyframes -amp-start {
-    from { visibility: hidden; }
-    to { visibility: visible; }
-  }
+  <style amp-custom>
+    :root {
+      --maxw: 480px;
+      --nav-h: 62px;
+      --nav-space: 75px;
+      --c-bg: #080002;
+      --c-red: #8b0000;
+      --c-dark-red: #8b0000;
+      --c-white: #ffffff;
+      --c-glass: rgba(18, 2, 6, 0.88);
+      --c-border: rgba(255, 0, 0, 0.5);
+      --r-card: 16px;
+      --r-btn: 10px;
+      --shadow-hd: 0 10px 30px rgba(0, 0, 0, 0.9), 0 0 20px rgba(255, 0, 0, 0.35);
+    }
 
-  @-ms-keyframes -amp-start {
-    from { visibility: hidden; }
-    to { visibility: visible; }
-  }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    ::-webkit-scrollbar { display: none; }
 
-  @-o-keyframes -amp-start {
-    from { visibility: hidden; }
-    to { visibility: visible; }
-  }
+    html {
+      max-width: var(--maxw);
+      margin: 0 auto;
+      background-color: var(--c-bg);
+      background-image: url('https://kesetiaan-yang-abadi.site/image/slottotoo.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      font-family: 'Rajdhani', sans-serif;
+      position: relative;
+    }
 
-  @keyframes -amp-start {
-    from { visibility: hidden; }
-    to { visibility: visible; }
-  }
-</style>
+    html::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(circle at 50% 30%, rgba(12, 0, 3, 0.75) 0%, rgba(5, 0, 1, 0.92) 80%);
+      z-index: -1;
+    }
 
-<noscript>
-  <style amp-boilerplate>
     body {
-      -webkit-animation: none;
-      -moz-animation: none;
-      -ms-animation: none;
-      animation: none;
-    }
-  </style>
-</noscript>
-
-
-<style amp-custom>
-
-  
-  * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-
-  
-  :root {
-    --gold: #00ffae;
-    --gold-light: #00ffae;
-    --gold-bright: #00ffae;
-    --gold-dark: #458a00;
-    --gold-deep: #458a00;
-    --black: #000000;
-    --bg: #050400;
-    --panel: #0d0b04;
-    --white: #ffffff;
-  }
-
-  
-  body {
-    min-height: 100vh;
-    font-family: "Courier New", monospace;
-    color: #ffffff;
-
-    background:
-      radial-gradient(
-        circle at 15% 15%,
-        rgba(106, 255, 0, 0.16),
-        transparent 28%
-      ),
-      radial-gradient(
-        circle at 85% 80%,
-        rgba(0, 138, 11, 0.18),
-        transparent 30%
-      ),
-      linear-gradient(
-        135deg,
-        #020200,
-        #0b0000 45%,
-        #020200
-      );
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow-x: hidden;
-    position: relative;
-  }
-
-  
-  body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-    opacity: .28;
-
-    background-image:
-      linear-gradient(
-        rgba(21, 255, 0, 0.09) 1px,
-        transparent 1px
-      ),
-      linear-gradient(
-        90deg,
-        rgba(34, 255, 0, 0.09) 1px,
-        transparent 1px
-      );
-
-    background-size: 40px 40px;
-
-    mask-image:
-      linear-gradient(
-        to bottom,
-        black,
-        transparent
-      );
-  }
-
-  
-  body::after {
-    content: "";
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: -10%;
-    height: 2px;
-
-    background:
-      linear-gradient(
-        90deg,
-        transparent,
-        #00ffae,
-        #ffffff,
-        #00ffae,
-        transparent
-      );
-
-    box-shadow:
-      0 0 10px #00ffae,
-      0 0 25px #00ffae,
-      0 0 45px rgba(111, 255, 0, 0.7);
-
-    opacity: .55;
-
-    animation: screenScan 6s linear infinite;
-
-    pointer-events: none;
-    z-index: 999;
-  }
-
-  @keyframes screenScan {
-    0% {
-      top: -5%;
+      color: var(--c-white);
+      overflow-x: hidden;
     }
 
-    100% {
-      top: 105%;
-    }
-  }
+    main { padding-bottom: var(--nav-space); }
+    .macallan { padding: 12px 12px 0; }
 
-  
-  .container {
-    width: 92%;
-    max-width: 430px;
-    margin: 25px auto;
-    padding: 24px 18px;
-
-    position: relative;
-    overflow: hidden;
-
-    background:
-      linear-gradient(
-        145deg,
-        rgba(18,15,3,.97),
-        rgba(3,3,0,.99)
-      );
-
-    border: 1px solid rgba(38, 255, 0, 0.7);
-    border-radius: 24px;
-
-    box-shadow:
-      0 0 0 1px rgba(115, 255, 0, 0.15),
-      0 0 25px rgba(68, 255, 0, 0.25),
-      0 0 60px rgba(44, 138, 0, 0.12),
-      0 20px 60px rgba(0,0,0,.9);
-  }
-
-  
-  .container::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: 24px;
-    padding: 1px;
-
-    background:
-      conic-gradient(
-        from 0deg,
-        transparent 0deg,
-        transparent 40deg,
-        #00ffae 80deg,
-        #00ffae 120deg,
-        transparent 170deg,
-        transparent 220deg,
-        #258a00 260deg,
-        #00ff99 310deg,
-        transparent 360deg
-      );
-
-    mask:
-      linear-gradient(#000 0 0) content-box,
-      linear-gradient(#000 0 0);
-
-    mask-composite: exclude;
-
-    animation: borderRotate 4s linear infinite;
-
-    pointer-events: none;
-    opacity: .9;
-  }
-
-  @keyframes borderRotate {
-    from {
-      transform: rotate(0deg);
+    /* Frame Utama Card 3D Running Light */
+    .combo-block {
+      position: relative;
+      margin-bottom: 22px;
+      border-radius: var(--r-card);
+      padding: 2px;
+      background: linear-gradient(135deg, var(--c-red), var(--c-white), var(--c-dark-red), var(--c-white));
+      background-size: 300% 300%;
+      animation: borderMove 4s ease infinite;
+      box-shadow: 0 12px 35px rgba(0,0,0,0.9), 0 0 25px rgba(255, 0, 0, 0.4);
     }
 
-    to {
-      transform: rotate(360deg);
-    }
-  }
-
-  
-  .container::after {
-    content: "";
-    position: absolute;
-    inset: 2px;
-    border-radius: 22px;
-
-    background:
-      radial-gradient(
-        circle at 50% 0%,
-        rgba(81, 255, 0, 0.07),
-        transparent 45%
-      );
-
-    pointer-events: none;
-  }
-
-  
-  .corner {
-    position: absolute;
-    width: 42px;
-    height: 42px;
-    z-index: 5;
-    pointer-events: none;
-  }
-
-  .corner::before,
-  .corner::after {
-    content: "";
-    position: absolute;
-    background: #00ffae;
-
-    box-shadow:
-      0 0 6px #00ffae,
-      0 0 15px #00ffae;
-  }
-
-  .corner::before {
-    width: 42px;
-    height: 2px;
-  }
-
-  .corner::after {
-    width: 2px;
-    height: 42px;
-  }
-
-  .corner.tl {
-    top: 8px;
-    left: 8px;
-  }
-
-  .corner.tr {
-    top: 8px;
-    right: 8px;
-    transform: rotate(90deg);
-  }
-
-  .corner.bl {
-    bottom: 8px;
-    left: 8px;
-    transform: rotate(-90deg);
-  }
-
-  .corner.br {
-    bottom: 8px;
-    right: 8px;
-    transform: rotate(180deg);
-  }
-
-  
-  header {
-    position: relative;
-    z-index: 10;
-  }
-
-  .logo-wrap {
-    text-align: center;
-    padding: 5px 0 10px;
-  }
-
-  .logo-wrap amp-img {
-    filter:
-      drop-shadow(0 0 8px #00ffae)
-      drop-shadow(0 0 18px rgba(72, 255, 0, 0.65))
-      drop-shadow(0 0 35px rgba(7, 138, 0, 0.4));
-  }
-
-  
-  .welcome {
-    text-align: center;
-    margin-bottom: 13px;
-    position: relative;
-    z-index: 10;
-  }
-
-  . {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-
-    padding: 7px 13px;
-
-    border: 1px solid rgba(72, 255, 0, 0.65);
-    border-radius: 30px;
-
-    color: #00ffae;
-
-    background: rgba(255,0,0,.06);
-
-    font-size: 11px;
-    font-weight: 900;
-    letter-spacing: 1.5px;
-
-    text-shadow:
-      0 0 8px #00ffae,
-      0 0 16px rgba(132, 255, 0, 0.5);
-
-    box-shadow:
-      inset 0 0 12px rgba(64, 255, 0, 0.08),
-      0 0 18px rgba(0, 255, 183, 0.1);
-  }
-
-  .-dot {
-    width: 7px;
-    height: 7px;
-    border-radius: 50%;
-
-    background: #00ffae;
-
-    box-shadow:
-      0 0 6px #00ffae,
-      0 0 14px #00ffae,
-      0 0 24px #00ffae;
-
-    animation:
-      goldPulse 1.3s ease-in-out infinite;
-  }
-
-  @keyframes goldPulse {
-    0%,
-    100% {
-      opacity: .35;
-      transform: scale(.8);
+    @keyframes borderMove {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
 
-    50% {
-      opacity: 1;
-      transform: scale(1.2);
-    }
-  }
-
-  
-  .banner-wrap {
-    position: relative;
-    padding: 3px;
-    border-radius: 20px;
-
-    background:
-      linear-gradient(
-        135deg,
-        #00ffae,
-        #056c02,
-        #00ffae,
-        #056c02,
-        #00ffae
-      );
-
-    background-size: 300% 300%;
-
-    animation:
-      bannerBorder 5s ease infinite;
-
-    box-shadow:
-      0 0 15px rgba(0, 255, 26, 0.35),
-      0 0 35px rgba(255,0,0,.2),
-      0 10px 30px rgba(0,0,0,.7);
-  }
-
-  @keyframes bannerBorder {
-    0% {
-      background-position: 0% 50%;
+    .combo-inner {
+      background: var(--c-glass);
+      backdrop-filter: blur(8px);
+      border-radius: calc(var(--r-card) - 2px);
+      overflow: hidden;
     }
 
-    50% {
-      background-position: 100% 50%;
+    /* Header Styling */
+    .combo-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: linear-gradient(180deg, rgba(255, 0, 0, 0.25) 0%, rgba(0,0,0,0.8) 100%);
+      border-bottom: 1px solid var(--c-border);
     }
 
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-
-  .banner {
-    display: block;
-    border-radius: 17px;
-    overflow: hidden;
-  }
-
-  
-  .btn {
-    display: block;
-    position: relative;
-
-    margin: 11px 0;
-    padding: 16px 12px;
-
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-
-    border-radius: 12px;
-
-    font-size: 16px;
-    font-weight: 900;
-    letter-spacing: 2px;
-
-    color: #ffffff;
-    overflow: hidden;
-
-    transition:
-      transform .25s ease,
-      filter .25s ease;
-
-    z-index: 10;
-  }
-
-  .btn:hover {
-    transform: translateY(-2px);
-    filter: brightness(1.2);
-  }
-
-  
-  .btn-login {
-    background:
-      linear-gradient(
-        90deg,
-        #011900,
-        #215700,
-        #011900
-      );
-
-    border: 1px solid #00ffae;
-
-    box-shadow:
-      0 0 10px rgba(68, 255, 0, 0.25),
-      inset 0 0 20px rgba(64, 255, 0, 0.08);
-  }
-
-  
-  .btn-daftar {
-    background:
-      linear-gradient(
-        90deg,
-        #276500,
-        #00e056,
-        #276500
-      );
-
-    border: 1px solid #00ffae;
-
-    box-shadow:
-      0 0 15px rgba(0, 255, 85, 0.45),
-      0 0 30px rgba(0, 138, 39, 0.2),
-      inset 0 0 20px rgba(0, 255, 183, 0.1);
-  }
-
-  
-  .btn::after {
-    content: "";
-    position: absolute;
-
-    top: 0;
-    left: -100%;
-
-    width: 60%;
-    height: 100%;
-
-    background:
-      linear-gradient(
-        90deg,
-        transparent,
-        rgba(255,255,255,.28),
-        transparent
-      );
-
-    transform: skewX(-20deg);
-
-    animation:
-      buttonScan 3s linear infinite;
-
-    pointer-events: none;
-  }
-
-  @keyframes buttonScan {
-    0% {
-      left: -100%;
-    }
-
-    50%,
-    100% {
-      left: 150%;
-    }
-  }
-
-  
-  .button-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
-
-    margin-top: 12px;
-
-    position: relative;
-    z-index: 10;
-  }
-
-  .button-grid a {
-    padding: 12px 8px;
-    border-radius: 10px;
-
-    color: #00ffae;
-    text-align: center;
-    text-decoration: none;
-
-    font-size: 13px;
-    font-weight: 900;
-    letter-spacing: 1px;
-
-    background:
-      linear-gradient(
-        145deg,
-        rgba(64, 255, 0, 0.08),
-        rgba(60,45,0,.25)
-      );
-
-    border: 1px solid rgba(132, 255, 0, 0.5);
-
-    box-shadow:
-      inset 0 0 15px rgba(0, 255, 34, 0.05),
-      0 0 8px rgba(64, 255, 0, 0.08);
-
-    transition: all .25s ease;
-  }
-
-  .button-grid a:hover {
-    color: #ffffff;
-
-    background: rgba(115, 255, 0, 0.15);
-
-    border-color: #00ffae;
-
-    box-shadow:
-      0 0 15px rgba(0, 255, 26, 0.35),
-      inset 0 0 15px rgba(17, 255, 0, 0.1);
-
-    transform: translateY(-2px);
-  }
-
-  .button-grid a:nth-child(2) {
-    color: #ffffff;
-    border-color: rgba(102, 255, 171, 0.55);
-  }
-
-  
-  .cyber-badge {
-    position: relative;
-
-    margin-top: 14px;
-    padding: 11px;
-
-    text-align: center;
-
-    border: 1px dashed rgba(72, 255, 0, 0.65);
-
-    background:
-      linear-gradient(
-        90deg,
-        rgba(55, 255, 0, 0.04),
-        rgba(0, 138, 76, 0.1),
-        rgba(55, 255, 0, 0.04)
-      );
-
-    border-radius: 10px;
-    overflow: hidden;
-  }
-
-  .cyber-badge::before {
-    content: "";
-    position: absolute;
-
-    top: 0;
-    bottom: 0;
-    left: -100%;
-
-    width: 50%;
-
-    background:
-      linear-gradient(
-        90deg,
-        transparent,
-        rgba(115, 255, 0, 0.15),
-        transparent
-      );
-
-    transform: skewX(-20deg);
-
-    animation:
-      badgeScan 4s linear infinite;
-  }
-
-  @keyframes badgeScan {
-    0% {
-      left: -100%;
-    }
-
-    50%,
-    100% {
-      left: 150%;
-    }
-  }
-
-  .cyber-badge strong {
-    color: #00ffae;
-
-    font-size: 11px;
-    letter-spacing: 1.5px;
-
-    text-shadow:
-      0 0 8px #00ffae,
-      0 0 18px rgba(132, 255, 0, 0.5);
-  }
-
-  
-  .copyright {
-    margin-top: 18px;
-    padding-top: 14px;
-
-    text-align: center;
-
-    border-top: 1px solid rgba(94, 255, 0, 0.18);
-
-    color: rgba(255,255,255,.5);
-
-    font-size: 10px;
-    line-height: 1.8;
-  }
-
-  .copyright strong {
-    color: #00ffae;
-
-    text-shadow:
-      0 0 8px #00ffae,
-      0 0 15px rgba(132, 255, 0, 0.5);
-  }
-
-  .tags {
-    color: rgba(173, 255, 102, 0.65);
-    font-size: 9px;
-  }
-
-  
-  @media (max-width: 360px) {
-    .container {
-      width: 94%;
-      padding: 20px 14px;
-    }
+    .button-container { display: flex; gap: 8px; }
 
     .btn {
+      position: relative;
+      display: inline-block;
+      background: linear-gradient(135deg, var(--c-red) 0%, #a30000 100%);
+      color: var(--c-white);
+      text-decoration: none;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 900;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 8px 16px;
+      border-radius: var(--r-btn);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      box-shadow: 0 4px 15px rgba(255, 0, 0, 0.5), inset 0 2px 3px rgba(255,255,255,0.6);
+      transition: all 0.2s ease;
+      overflow: hidden;
+    }
+
+    .btn::before {
+      content: '';
+      position: absolute;
+      top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background: linear-gradient(45deg, transparent, rgba(255,255,255,0.7), transparent);
+      transform: rotate(45deg) translateY(-100%);
+      animation: shine 3s infinite;
+    }
+
+    @keyframes shine {
+      0% { transform: rotate(45deg) translateY(-100%); }
+      20%, 100% { transform: rotate(45deg) translateY(100%); }
+    }
+
+    .btn-white {
+      background: linear-gradient(135deg, #ffffff 0%, #d6d6d6 100%);
+      color: #b30000;
+      box-shadow: 0 4px 15px rgba(255, 255, 255, 0.4), inset 0 2px 3px #ffffff;
+      border: 1px solid #ffffff;
+    }
+
+    /* FIX AGAR GAMBAR PENUH PENUH KE SISI (COVER FULL) */
+    .combo-hero {
+      position: relative;
+      width: 100%;
+      display: block;
+      background: #000;
+      overflow: hidden;
+    }
+
+    .combo-hero amp-carousel {
+      width: 100%;
+    }
+
+    .combo-hero amp-img img {
+      object-fit: cover;
+      object-position: center;
+    }
+
+    /* Action Blocks Merah-Putih 3D */
+    .abonus {
+      display: grid;
+      gap: 12px;
+    }
+
+    .block {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 15px 20px;
+      border-radius: var(--r-card);
+      text-decoration: none;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 900;
       font-size: 14px;
       letter-spacing: 1.5px;
+      color: var(--c-white);
+      background: linear-gradient(135deg, rgba(105, 0, 0, 0.9) 0%, rgba(150, 0, 0, 0.95) 100%);
+      border: 1px solid var(--c-border);
+      box-shadow: var(--shadow-hd);
+      text-shadow: 0 2px 4px rgba(0,0,0,0.9), 0 0 10px rgba(255, 0, 0, 0.8);
+      transition: all 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      overflow: hidden;
     }
 
-    .button-grid a {
+    .block::before {
+      content: '';
+      position: absolute;
+      inset: -2px;
+      background: linear-gradient(90deg, var(--c-red), var(--c-white), var(--c-red));
+      background-size: 300%;
+      z-index: -1;
+      border-radius: calc(var(--r-card) + 2px);
+      opacity: 0.35;
+      animation: steam 5s linear infinite;
+    }
+
+    .block::after {
+      content: '';
+      position: absolute;
+      top: 0; left: -100%;
+      width: 60%; height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+      transform: skewX(-25deg);
+      animation: lightSweep 4s ease-in-out infinite;
+    }
+
+    @keyframes lightSweep {
+      0%, 50% { left: -100%; }
+      70%, 100% { left: 200%; }
+    }
+
+    .block:hover, .block:active {
+      transform: translateY(-3px) scale(1.02);
+      border-color: var(--c-white);
+      background: linear-gradient(135deg, rgba(180, 0, 0, 0.95) 0%, rgba(50, 0, 0, 0.95) 100%);
+      box-shadow: 0 15px 30px rgba(0,0,0,1), 0 0 25px rgba(255, 0, 0, 0.8);
+    }
+
+    .footer {
+      text-align: center;
+      margin: 25px 0 15px;
+      color: rgba(255, 255, 255, 0.8);
       font-size: 11px;
+      font-family: 'Rajdhani', sans-serif;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-shadow: 0 1px 2px #000;
     }
-  }
 
-</style>
+    /* Bottom Fixed Navbar */
+    #bottom-navbar {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      max-width: var(--maxw);
+      margin: 0 auto;
+      z-index: 999;
+      background: rgba(12, 0, 3, 0.95);
+      backdrop-filter: blur(15px);
+      border-top: 1px solid var(--c-border);
+      box-shadow: 0 -10px 25px rgba(0,0,0,0.9), 0 -2px 10px rgba(255, 0, 0, 0.3);
+    }
+
+    #bottom-navbar ul {
+      display: flex;
+      list-style: none;
+    }
+
+    #bottom-navbar ul li { width: 33.3333%; }
+
+    #bottom-navbar ul li a {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      height: var(--nav-h);
+      text-decoration: none;
+      color: var(--c-white);
+      font-family: 'Orbitron', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      transition: all 0.2s ease;
+    }
+
+    #bottom-navbar ul li+li a {
+      border-left: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    #bottom-navbar span.material-icons {
+      font-size: 22px;
+      color: var(--c-red);
+      filter: drop-shadow(0 0 6px rgba(255, 0, 0, 0.9));
+      transition: transform 0.2s ease;
+    }
+
+    #bottom-navbar ul li a:hover span.material-icons {
+      transform: translateY(-3px) scale(1.2);
+      color: var(--c-white);
+      filter: drop-shadow(0 0 8px #ffffff);
+    }
+
+    #bottom-navbar ul li a:hover {
+      background: linear-gradient(180deg, rgba(255, 0, 0, 0.25) 0%, transparent 100%);
+      color: var(--c-white);
+    }
+
+    @keyframes steam {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
 </head>
-
 <body>
-
-  
-
-  <div class="container">
-
-    <span class="corner tl"></span>
-    <span class="corner tr"></span>
-    <span class="corner bl"></span>
-    <span class="corner br"></span>
-
-    
-
-    <header>
-
-      <div class="logo-wrap">
-
-        <amp-img
-          src="https://kesetiaan-yang-abadi.site/image/bragatoto.gif"
-          alt="BRAGATOTO"
-          width="225"
-          height="75"
-          layout="intrinsic">
-        </amp-img>
-
+  <main>
+    <div class="macallan">
+      
+      <div class="combo-block">
+        <div class="combo-inner">
+          <div class="combo-header">
+            <a href="https://bandungbarat.bawaslu.go.id/">
+              <amp-img width="132" height="44" layout="fixed" alt="BRAGATOTO" src="https://kesetiaan-yang-abadi.site/image/bragatoto.gif"></amp-img>
+            </a>
+            <div class="button-container">
+              <a class="btn btn-white" href="https://seobraga.site/braga1" target="_blank" rel="nofollow">Daftar</a>
+              <a class="btn" href="https://seobraga.site/braga1" target="_blank" rel="nofollow">Login</a>
+            </div>
+          </div>
+          
+          <div class="combo-hero">
+            <amp-carousel width="350" height="350" layout="responsive" type="slides" autoplay delay="2500" role="region" aria-label="Banner Carousel">
+              <amp-img src="https://kesetiaan-yang-abadi.site/image/slottotoo.png" width="500" height="550" layout="responsive" alt="banner 1"></amp-img>
+              <amp-img src="https://kesetiaan-yang-abadi.site/image/slottotoo.png" width="500" height="550" layout="responsive" alt="banner 2"></amp-img>
+            </amp-carousel>
+          </div>
+        </div>
       </div>
 
-    </header>
-
-    
-
-    <div class="welcome">
-
-      <div class="">
-
-        <span class="-dot"></span>
-
-        SITUS TOTO TOGEL
-
+      <!-- TOMBOL UTAMA -->
+      <div class="abonus">
+        <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow" class="block">LOGIN BRAGATOTO</a>
+        <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow" class="block">DAFTAR BRAGATOTO</a>
+        <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow" class="block">LIVE DRAW</a>
+        <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow" class="block">LIVE CHAT</a>
       </div>
 
     </div>
 
-    
-
-    <div class="banner-wrap">
-
-      <amp-img
-        src="https://kesetiaan-yang-abadi.site/image/slottotoo.png"
-        width="400"
-        height="400"
-        layout="responsive"
-        alt="BRAGATOTO"
-        class="banner">
-      </amp-img>
-
+    <div class="footer">
+      © 2026 | SLOT TOTO GACOR | SEO MOON ❤︎ HANZ
     </div>
 
-    
-
-    <a
-      href="https://seobraga.site/braga1"
-      target="_blank"
-      rel="nofollow noopener"
-      class="btn btn-login">
-
-      LOGIN BRAGATOTO
-
-    </a>
-
-    
-
-    <a
-      href="https://seobraga.site/braga1"
-      target="_blank"
-      rel="nofollow noopener"
-      class="btn btn-daftar">
-
-      DAFTAR BRAGATOTO
-
-    </a>
-
-    
-
-    <div class="button-grid">
-
-      <a
-        href="https://seobraga.site/braga1"
-        target="_blank"
-        rel="nofollow noopener">
-
-        PREDIKSI JITU
-
-      </a>
-
-      <a
-        href="https://seobraga.site/braga1"
-        target="_blank"
-        rel="nofollow noopener">
-
-        SITUS GACOR
-
-      </a>
-
+    <!-- BOTTOM NAVBAR -->
+    <div class="bottom-navbar" id="bottom-navbar">
+      <ul>
+        <li>
+          <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="material-icons">local_offer</span>
+            PROMO
+          </a>
+        </li>
+        <li>
+          <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="material-icons">how_to_reg</span>
+            DAFTAR
+          </a>
+        </li>
+        <li>
+          <a href="https://seobraga.site/braga1" target="_blank" rel="nofollow noopener noreferrer">
+            <span class="material-icons">headset_mic</span>
+            LIVE CHAT
+          </a>
+        </li>
+      </ul>
     </div>
-
-    
-
-    <div class="cyber-badge">
-
-      <strong>
-        ⚡️ TOTO TOGEL HARI INI ⚡️
-      </strong>
-
-    </div>
-
-    
-
-    <p class="copyright">
-
-      &copy; 2026
-
-      <strong>BRAGATOTO</strong>
-
-      | SALAHKAH MENCINTAI SERVER LAIN | BRAGATOTO
-
-      <br>
-
-      <span class="tags">
-
-        #TOTO
-        #TOGEL
-        #BRAGATOTO
-
-      </span>
-
-    </p>
-
-  </div>
-
+  </main>
 </body>
 </html>
