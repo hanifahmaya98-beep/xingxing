@@ -6,16 +6,16 @@
 <meta name="google-site-verification" content="jJGwnSU-wta6nJ9v91Py4kn2jhkiT3kvhFDuPvLIX8Q" />
 <link rel="icon" type="image/x-icon" href="https://krenova-rembangkab.pages.dev/img/icon-juara288.webp" />
 <link rel="apple-touch-icon" href="https://krenova-rembangkab.pages.dev/img/icon-juara288.webp">
-<link rel="canonical" href="https://krenova.rembangkab.go.id/">
+<link rel="canonical" href="https://krenova.rembangkab.go.id/v1">
 <link rel="amphtml" href="https://krenova-rembangkab.pages.dev/juara288.html" />
-<link rel="alternate" href="https://krenova.rembangkab.go.id/" hreflang="id">
-<link rel="alternate" href="https://krenova.rembangkab.go.id/" hreflang="en">
-<link rel="alternate" href="https://krenova.rembangkab.go.id/" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://krenova.rembangkab.go.id/">
-<link rel="alternate" hreflang="en-US" href="https://krenova.rembangkab.go.id/">
-<link rel="alternate" hreflang="en-SG" href="https://krenova.rembangkab.go.id/">
-<link rel="alternate" hreflang="id-id" href="https://krenova.rembangkab.go.id/">
-<link rel="alternate" hreflang="id" href="https://krenova.rembangkab.go.id/">
+<link rel="alternate" href="https://krenova.rembangkab.go.id/v1" hreflang="id">
+<link rel="alternate" href="https://krenova.rembangkab.go.id/v1" hreflang="en">
+<link rel="alternate" href="https://krenova.rembangkab.go.id/v1" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://krenova.rembangkab.go.id/v1">
+<link rel="alternate" hreflang="en-US" href="https://krenova.rembangkab.go.id/v1">
+<link rel="alternate" hreflang="en-SG" href="https://krenova.rembangkab.go.id/v1">
+<link rel="alternate" hreflang="id-id" href="https://krenova.rembangkab.go.id/v1">
+<link rel="alternate" hreflang="id" href="https://krenova.rembangkab.go.id/v1">
 <link as='image' href='https://krenova-rembangkab.pages.dev/img/dana-5000.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -50,8 +50,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        'https://krenova.rembangkab.go.id/',
-        'https://krenova.rembangkab.go.id/'
+        'https://krenova.rembangkab.go.id/v1',
+        'https://krenova.rembangkab.go.id/v1'
       ]
     });
   })
@@ -66,7 +66,7 @@
 <meta property="og:price:amount" content="99.00">
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://krenova.rembangkab.go.id/">
+<meta property="og:url" content="https://krenova.rembangkab.go.id/v1">
 <meta property="og:image" content="https://krenova-rembangkab.pages.dev/img/dana-5000.png">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="23.00">
@@ -81,7 +81,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://krenova.rembangkab.go.id/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://krenova.rembangkab.go.id/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"JUARA288 ialah link situs gacor dengan fitur scan qris dana 5000 auto masuk yang menghadirkan akses stabil, tampilan modern, serta kemudahan bermain situs gacor lebih cepat dan mudah.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"JUARA288","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey JUARA288","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://krenova.rembangkab.go.id/v1","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://krenova.rembangkab.go.id/v1","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"JUARA288 ialah link situs gacor dengan fitur scan qris dana 5000 auto masuk yang menghadirkan akses stabil, tampilan modern, serta kemudahan bermain situs gacor lebih cepat dan mudah.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"JUARA288","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey JUARA288","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
 </script>
 <script>
   window.dataLayer.push({
@@ -184,7 +184,7 @@ JUARA288: Link Situs Gacor Dengan Fitur Scan Dana 5000 Auto Masuk
 </div>
 
 </button></div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://krenova.rembangkab.go.id/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://krenova.rembangkab.go.id/v1" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://krenova-rembangkab.pages.dev/img/logo-juara288.gif" type="image/webp">
@@ -203,7 +203,7 @@ JUARA288: Link Situs Gacor Dengan Fitur Scan Dana 5000 Auto Masuk
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://krenova.rembangkab.go.id/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://krenova.rembangkab.go.id/v1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -323,48 +323,48 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://krenova.rembangkab.go.id/" title="Halloween T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://krenova.rembangkab.go.id/v1" title="Halloween T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 JUARA288
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://krenova.rembangkab.go.id/" title="Music T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://krenova.rembangkab.go.id/v1" title="Music T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 JUARA288 GACOR
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://krenova.rembangkab.go.id/" title="Sport T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://krenova.rembangkab.go.id/v1" title="Sport T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 JUARA288 QRIS DANA 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://krenova.rembangkab.go.id/" title="Movie T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://krenova.rembangkab.go.id/v1" title="Movie T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 JUARA288 DANA 5000
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://krenova.rembangkab.go.id/" title="Vintage T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://krenova.rembangkab.go.id/v1" title="Vintage T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 FITUR DANA 5000
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://krenova.rembangkab.go.id/" title="Animal T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://krenova.rembangkab.go.id/v1" title="Animal T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 DEPO DANA 5000
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://krenova.rembangkab.go.id/" title="Television T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://krenova.rembangkab.go.id/v1" title="Television T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 SITUS DANA 5000
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://krenova.rembangkab.go.id/" title="Funny T-Shirts" href="https://krenova.rembangkab.go.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://krenova.rembangkab.go.id/v1" title="Funny T-Shirts" href="https://krenova.rembangkab.go.id/v1" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 SCAN DANA 5000
 
@@ -406,10 +406,10 @@ Selamat Datang Di JUARA288: Link Situs Gacor Dengan Fitur Scan Dana 5000 Auto Ma
             },
             "sku": "JUARA288",
             "mpn": "188188-GCR",
-            "url": "https://krenova.rembangkab.go.id/",
+            "url": "https://krenova.rembangkab.go.id/v1",
             "offers": {
                 "@type": "Offer",
-                "url": "https://krenova.rembangkab.go.id/",
+                "url": "https://krenova.rembangkab.go.id/v1",
                 "priceCurrency": "idr",
                 "price": "0.00",
                 "priceValidUntil": "2026-12-31",
@@ -460,49 +460,49 @@ Selamat Datang Di JUARA288: Link Situs Gacor Dengan Fitur Scan Dana 5000 Auto Ma
       "@type": "ListItem",
       "position": 1,
       "name": "JUARA288",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "JUARA288 GACOR",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "JUARA288 QRIS DANA",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "JUARA288 DANA 5000",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "FITUR DANA 5000",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "DEPO DANA 5000",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "SITUS DANA 5000",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "SCAN DANA 5000",
-      "item": "https://krenova.rembangkab.go.id/"
+      "item": "https://krenova.rembangkab.go.id/v1"
     }
   ]
 }
@@ -513,7 +513,7 @@ Selamat Datang Di JUARA288: Link Situs Gacor Dengan Fitur Scan Dana 5000 Auto Ma
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "JUARA288",
-            "url": "https://krenova.rembangkab.go.id/",
+            "url": "https://krenova.rembangkab.go.id/v1",
             "logo": "https://krenova-rembangkab.pages.dev/img/logo-juara288.gif",
             "sameAs": [
                 "https://www.facebook.com/JUARA288",
@@ -536,27 +536,27 @@ Selamat Datang Di JUARA288: Link Situs Gacor Dengan Fitur Scan Dana 5000 Auto Ma
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://krenova.rembangkab.go.id/#org",
+      "@id": "https://krenova.rembangkab.go.id/v1#org",
       "name": "JUARA288",
-      "url": "https://krenova.rembangkab.go.id/",
+      "url": "https://krenova.rembangkab.go.id/v1",
       "logo": "https://krenova-rembangkab.pages.dev/img/logo-juara288.gif"
     },
     {
       "@type": "WebSite",
-      "@id": "https://krenova.rembangkab.go.id/#website",
-      "url": "https://krenova.rembangkab.go.id/",
+      "@id": "https://krenova.rembangkab.go.id/v1#website",
+      "url": "https://krenova.rembangkab.go.id/v1",
       "name": "JUARA288",
-      "publisher": { "@id": "https://krenova.rembangkab.go.id/#org" },
+      "publisher": { "@id": "https://krenova.rembangkab.go.id/v1#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://krenova.rembangkab.go.id/?s={search_term_string}",
+        "target": "https://krenova.rembangkab.go.id/v1?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://krenova.rembangkab.go.id/#app",
+      "@id": "https://krenova.rembangkab.go.id/v1#app",
       "name": "JUARA288",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1840,7 +1840,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://krenova.rembangkab.go.id/" href="https://krenova.rembangkab.go.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://krenova.rembangkab.go.id/v1" href="https://krenova.rembangkab.go.id/v1" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -1870,13 +1870,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://krenova.rembangkab.go.id/" href="https://krenova.rembangkab.go.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://krenova.rembangkab.go.id/v1" href="https://krenova.rembangkab.go.id/v1" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://krenova.rembangkab.go.id/" href="https://krenova.rembangkab.go.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://krenova.rembangkab.go.id/v1" href="https://krenova.rembangkab.go.id/v1" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -1888,19 +1888,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://krenova.rembangkab.go.id/" href="https://krenova.rembangkab.go.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://krenova.rembangkab.go.id/v1" href="https://krenova.rembangkab.go.id/v1" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://krenova.rembangkab.go.id/" href="https://krenova.rembangkab.go.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://krenova.rembangkab.go.id/v1" href="https://krenova.rembangkab.go.id/v1" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://krenova.rembangkab.go.id/" href="https://krenova.rembangkab.go.id/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://krenova.rembangkab.go.id/v1" href="https://krenova.rembangkab.go.id/v1" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -2188,7 +2188,7 @@ Back To Menu
 <div class='drawer__content-container jsDrawerContentContainer'>
 <div class='m-tray-shop__body'>
 <div class='m-tray-shop__logo-container'>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://krenova.rembangkab.go.id/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://krenova.rembangkab.go.id/v1" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://krenova-rembangkab.pages.dev/img/logo-juara288.gif" type="image/webp">
@@ -2300,13 +2300,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://krenova.rembangkab.go.id/" title="Funny" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://krenova.rembangkab.go.id/v1" title="Funny" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://krenova.rembangkab.go.id/" title="Music" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://krenova.rembangkab.go.id/v1" title="Music" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -2318,19 +2318,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://krenova.rembangkab.go.id/" title="Movies" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://krenova.rembangkab.go.id/v1" title="Movies" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://krenova.rembangkab.go.id/" title="Television" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://krenova.rembangkab.go.id/v1" title="Television" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://krenova.rembangkab.go.id/" title="Sports" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://krenova.rembangkab.go.id/v1" title="Sports" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -2342,13 +2342,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://krenova.rembangkab.go.id/" title="Vintage" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://krenova.rembangkab.go.id/v1" title="Vintage" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://krenova.rembangkab.go.id/" title="Animals" href="https://krenova.rembangkab.go.id/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://krenova.rembangkab.go.id/v1" title="Animals" href="https://krenova.rembangkab.go.id/v1" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
