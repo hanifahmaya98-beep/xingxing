@@ -36,14 +36,14 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-<link rel="amphtml" href="https://tegalkab.bawaslu.go.id/situs-gacor">
-<link rel="alternate" hreflang="id-id" href="https://tegalkab.bawaslu.go.id/situs-gacor"/>
-<link rel="alternate" href="https://tegalkab.bawaslu.go.id/situs-gacor"/>
-<link rel="alternate" hreflang="id" href="https://tegalkab.bawaslu.go.id/situs-gacor"/>
-<link rel="alternate" hreflang="en" href="https://tegalkab.bawaslu.go.id/situs-gacor"/>
-<link rel="alternate" hreflang="x-default" href="https://tegalkab.bawaslu.go.id/situs-gacor"/>
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://tegalkab.bawaslu.go.id/situs-gacor" />
-<link rel="alternate" media="handheld" href="https://tegalkab.bawaslu.go.id/situs-gacor" />
+<link rel="amphtml" href="https://tegalkab.bawaslu.go.id/situs-gacor.html">
+<link rel="alternate" hreflang="id-id" href="https://tegalkab.bawaslu.go.id/situs-gacor.html"/>
+<link rel="alternate" href="https://tegalkab.bawaslu.go.id/situs-gacor.html"/>
+<link rel="alternate" hreflang="id" href="https://tegalkab.bawaslu.go.id/situs-gacor.html"/>
+<link rel="alternate" hreflang="en" href="https://tegalkab.bawaslu.go.id/situs-gacor.html"/>
+<link rel="alternate" hreflang="x-default" href="https://tegalkab.bawaslu.go.id/situs-gacor.html"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://tegalkab.bawaslu.go.id/situs-gacor.html" />
+<link rel="alternate" media="handheld" href="https://tegalkab.bawaslu.go.id/situs-gacor.html" />
 <link rel="icon" type="image/x-icon" href="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png">
 <link rel="canonical" href="https://tegalkab.bawaslu.go.id/">
@@ -320,7 +320,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://tegalkab.bawaslu.go.id/situs-gacor">
+        <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -330,12 +330,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://tegalkab.bawaslu.go.id/situs-gacor" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://tegalkab.bawaslu.go.id/situs-gacor.html" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://tegalkab.bawaslu.go.id/situs-gacor" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://tegalkab.bawaslu.go.id/situs-gacor.html" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -346,7 +346,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://tegalkab.bawaslu.go.id/situs-gacor">
+        <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -447,9 +447,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://tegalkab.bawaslu.go.id/situs-gacor"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png">LOGIN</a></li>
-      <li><a href="https://tegalkab.bawaslu.go.id/situs-gacor"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png">DAFTAR</a></li>
-      <li><a href="https://tegalkab.bawaslu.go.id/situs-gacor" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://tegalkab.bawaslu.go.id/situs-gacor.html"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png">LOGIN</a></li>
+      <li><a href="https://tegalkab.bawaslu.go.id/situs-gacor.html"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png">DAFTAR</a></li>
+      <li><a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -1760,7 +1760,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://tegalkab.bawaslu.go.id/situs-gacor">Masuk</a></button>
+        <button><a href="https://tegalkab.bawaslu.go.id/situs-gacor.html">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -1877,7 +1877,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://tegalkab.bawaslu.go.id/situs-gacor">
+            <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2120,7 +2120,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://tegalkab.bawaslu.go.id/situs-gacor" class="kc-points-lable">
+   <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" class="kc-points-lable">
       <img src="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png" class="kcpoints-img" width="30px">
        <span>Hadiah Jackpot <span class="price">Rp.10.000.000</span> - <span class="price">Rp.10.000.000.000</span></span>
    </a>
@@ -2362,10 +2362,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://tegalkab.bawaslu.go.id/situs-gacor"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #00dce4, #00e1ff, #00dfef);">
+                <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #00dce4, #00e1ff, #00dfef);">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://tegalkab.bawaslu.go.id/situs-gacor" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -6297,8 +6297,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SLOT GACOR</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://tegalkab.bawaslu.go.id/situs-gacor"><img width="200" height="60" loading="lazy" src="https://kesetiaan-yang-abadi.site/image/slotgacor.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://tegalkab.bawaslu.go.id/situs-gacor"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SLOT GACOR</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://tegalkab.bawaslu.go.id/situs-gacor.html"><img width="200" height="60" loading="lazy" src="https://kesetiaan-yang-abadi.site/image/slotgacor.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://tegalkab.bawaslu.go.id/situs-gacor.html"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -6374,7 +6374,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-          <a href="https://tegalkab.bawaslu.go.id/situs-gacor" class="notlogingift">
+          <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" class="notlogingift">
         <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
         CLAIM BONUS
       </a>
@@ -6913,23 +6913,23 @@ margin:0 26px 35px;
 
 <!-- HTML WIDGET FOOTER (Struktur Asli Anda) -->
 <div class="SLOT GACOR-SLOT88">
-    <a href="https://tegalkab.bawaslu.go.id/situs-gacor" rel="nofollow noopener" target="_blank">
+    <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://kesetiaan-yang-abadi.site/image/icon-slotgacor.png" alt="SLOT GACOR Promo">
         PROMO
     </a>
-    <a href="https://tegalkab.bawaslu.go.id/situs-gacor" rel="nofollow noopener" target="_blank">
+    <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://mariterbang.io/download/Am5pyJRK.png" alt="SLOT GACOR Login">
         LOGIN
     </a>
-    <a href="https://tegalkab.bawaslu.go.id/situs-gacor" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://mariterbang.io/download/B9Iy5Yov.png" alt="SLOT GACOR Daftar">
         DAFTAR
     </a>
-    <a href="https://tegalkab.bawaslu.go.id/situs-gacor" rel="nofollow noopener" target="_blank">
+    <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://mariterbang.io/download/Ew1AfxGc.png" alt="ALTERNATIF">
         ALTERNATIF
     </a>
-    <a href="https://tegalkab.bawaslu.go.id/situs-gacor" rel="nofollow noopener" target="_blank"
+    <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://mariterbang.io/download/FY87DbJC.png"
             alt="SLOT GACOR LiveChat">
@@ -7161,8 +7161,8 @@ margin:0 26px 35px;
      <img src="https://kesetiaan-yang-abadi.site/image/slot88-gacor.png" class="popup-image">
 
       <div class="popup-buttons">
-        <a href="https://tegalkab.bawaslu.go.id/situs-gacor">LOGIN</a>
-        <a href="https://tegalkab.bawaslu.go.id/situs-gacor">DAFTAR</a>
+        <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html">LOGIN</a>
+        <a href="https://tegalkab.bawaslu.go.id/situs-gacor.html">DAFTAR</a>
       </div>
 
       <div class="popup-footer">
